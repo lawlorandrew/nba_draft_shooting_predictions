@@ -1,0 +1,1001 @@
+,ast,blk,conf_abbr,drb,fg,fg2,fg2a,fg3,fg3a,fga,ft,fta,g,mp,orb,pf,player,pts,school_name,stl,tov,trb,year_max,year_min
+0,1,0,A-10,3,5,1,5,4,13,18,2,4,23,75,1,3,Jack Westerfield,16,Dayton,2,1,4,2019,2016
+1,1,1,Big Ten,6,6,3,8,3,14,22,1,2,47,71,4,7,Keenan Wetzel,16,Michigan State,0,3,10,2015,2012
+2,0,0,Total,8,5,1,1,4,7,8,2,5,20,36,0,2,Max Wiepking,16,Arizona,0,1,8,2013,2011
+3,2,9,Total,18,7,7,18,0,1,19,2,3,25,138,8,25,Travon Wilcher,16,Total,4,11,26,2012,2009
+4,1,0,SWAC,1,4,3,8,1,5,13,7,9,13,40,3,14,Andrew Wilkerson,16,Texas Southern,3,10,4,2007,2007
+5,1,0,MEAC,2,6,3,6,3,6,12,1,2,3,37,1,5,Jamir Williams,16,Florida A&M,4,2,3,2020,2020
+6,12,0,CUSA,7,6,6,15,0,3,18,4,9,4,74,3,5,Ryan Williams,16,Tulane,5,8,10,2007,2007
+7,5,0,AAC,9,5,0,1,5,14,15,1,4,10,61,1,3,Tom Wilson,16,Southern Methodist,1,6,10,2017,2017
+8,3,0,Big 12,4,6,2,7,4,11,18,0,0,28,50,2,2,Zach Winter,16,Kansas State,3,4,6,2017,2016
+9,2,22,Southern,22,5,5,11,0,0,11,6,13,26,172,10,35,Rashad Wright,16,College of Charleston,5,7,32,2010,2010
+10,1,2,Southland,8,5,3,6,2,10,16,3,6,18,35,1,3,Austin Adams,15,Northwestern State,1,5,9,2014,2013
+11,1,0,OVC,7,5,2,7,3,12,19,2,2,10,71,1,5,Hampus Ahlin,15,Tennessee State,2,7,8,2018,2018
+12,4,5,Sun Belt,8,6,3,12,3,4,16,0,4,9,95,3,15,David Anderson,15,Florida Atlantic,2,9,11,2007,2007
+13,1,1,Horizon,2,4,4,5,0,0,5,7,10,11,26,4,3,Kevin Anderson,15,Cleveland State,3,3,6,2010,2010
+14,8,0,Ivy,6,5,1,2,4,15,17,1,2,16,91,0,8,Kevin App,15,Cornell,3,5,6,2007,2007
+15,5,2,SWAC,24,5,5,21,0,1,22,5,6,21,199,6,11,Josh Armstrong,15,Jackson State,5,9,30,2012,2011
+16,0,1,Southland,7,7,7,16,0,0,16,1,4,12,67,5,15,Tavin Askew,15,Incarnate Word,2,1,12,2016,2016
+17,4,1,Ivy,3,4,1,5,3,9,14,4,5,29,79,4,8,Charlie Bagin,15,Princeton,4,9,7,2020,2018
+18,5,8,SWAC,8,6,6,20,0,0,20,3,8,25,137,6,20,Brandon Baker,15,Jackson State,0,6,14,2008,2008
+19,2,0,CUSA,4,5,0,2,5,13,15,0,0,6,35,1,0,Ryan Barbre,15,Southern Methodist,0,3,5,2010,2010
+20,0,0,SWAC,2,5,1,3,4,13,16,1,4,7,41,0,8,Corey Barnes,15,Alcorn State,1,5,2,2015,2015
+21,2,16,Southern,12,6,3,7,3,13,20,0,0,24,104,1,9,Levi Barnes,15,Samford,5,4,13,2013,2011
+22,2,1,ACC,11,6,4,9,2,7,16,1,4,28,61,3,7,Justice Bartley,15,Virginia,0,11,14,2018,2016
+23,8,0,Big Sky,5,6,3,7,3,12,19,0,0,31,107,1,9,T.J. Benson,15,Weber State,3,7,6,2009,2008
+24,2,0,Total,1,4,3,6,1,6,12,6,6,24,72,1,8,Ricky Bieszki,15,Oakland,5,3,2,2009,2007
+25,3,0,Total,4,6,3,3,3,9,12,0,4,14,34,2,7,Ryder Bowline,15,Elon,1,4,6,2017,2014
+26,2,0,Pac-12,5,5,1,2,4,9,11,1,2,20,43,1,4,Brett Brady,15,Colorado,2,3,6,2016,2014
+27,7,0,MAC,1,5,1,4,4,22,26,1,2,17,140,3,16,Chase Brogna,15,Ball State,2,3,4,2014,2013
+28,5,0,Pac-12,4,6,5,15,1,8,23,2,2,36,76,3,4,David Brown,15,UCLA,6,11,7,2015,2012
+29,0,2,Big South,12,6,6,11,0,0,11,3,4,18,76,9,11,Gabe Bryant,15,Gardner-Webb,2,6,21,2020,2020
+30,11,1,Big Sky,20,6,6,12,0,0,12,3,10,20,137,14,19,G.B. Burningham,15,Weber State,5,3,34,2007,2007
+31,7,1,SWAC,14,6,4,12,2,10,22,1,3,16,135,7,15,Brandon Byars,15,Southern,2,10,21,2008,2008
+32,3,0,SEC,5,4,1,6,3,7,13,4,6,16,32,0,2,Lucas Campbell,15,Tennessee,1,2,5,2019,2016
+33,4,3,MEAC,10,5,4,8,1,5,13,4,5,9,65,1,8,Tahj-Malik Campbell,15,Morgan State,2,7,11,2020,2020
+34,1,4,A-10,11,7,7,18,0,1,19,1,3,14,78,5,14,Robert Carpenter,15,St. Bonaventure,3,3,16,2020,2020
+35,2,2,Big East,9,5,2,9,3,9,18,2,6,14,66,5,15,Grayson Carter,15,Georgetown,2,8,14,2019,2019
+36,1,0,CAA,2,3,2,5,1,2,7,8,11,16,26,1,2,Cam Chambers,15,North Carolina-Wilmington,1,4,3,2012,2011
+37,1,0,MAC,4,5,2,2,3,20,22,2,2,11,83,1,1,Zeke Chapman,15,Ball State,3,4,5,2012,2012
+38,1,1,AEC,10,7,7,15,0,0,15,1,2,27,77,9,19,Alex Christie,15,Stony Brook,2,7,19,2020,2019
+39,6,0,MAC,8,4,1,4,3,10,14,4,4,13,72,5,11,Donald Cloutier,15,Western Michigan,7,6,13,2007,2007
+40,4,0,CAA,2,4,1,1,3,4,5,4,6,18,24,0,0,Christian Collins,15,Towson,2,1,2,2013,2012
+41,0,1,AEC,7,6,3,8,3,11,19,0,0,16,58,1,5,Matt Conway,15,Maryland-Baltimore County,2,2,8,2011,2011
+42,1,0,CAA,2,5,1,1,4,15,16,1,1,22,81,3,8,Deyon Cook,15,Towson,1,5,5,2012,2012
+43,1,3,GWC,6,5,3,13,2,6,19,3,7,13,87,7,9,Matt Darnell,15,NJIT,4,7,13,2010,2010
+44,6,0,ACC,5,3,2,7,1,4,11,8,14,45,90,3,10,Jordan Davidson,15,Duke,2,7,8,2010,2007
+45,4,0,Big South,5,6,5,8,1,4,12,2,2,5,19,1,4,Avery Davis,15,Winthrop,0,1,6,2019,2019
+46,6,1,Patriot,3,4,3,7,1,9,16,6,6,24,52,1,6,Jay Jay Davis,15,Lehigh,2,5,4,2018,2016
+47,0,0,SWAC,1,6,3,10,3,7,17,0,0,3,39,1,3,Justin Dobbs,15,Grambling,3,7,2,2013,2013
+48,1,2,ACC,9,7,7,10,0,0,10,1,6,17,56,5,11,Chris Doherty,15,Notre Dame,2,2,14,2020,2019
+49,2,4,Southland,15,7,6,20,1,1,21,0,0,8,105,7,25,Jeff Drew,15,Central Arkansas,4,11,22,2014,2014
+50,1,0,Southern,0,6,5,8,1,4,12,2,4,7,28,0,1,Dillon Dunford,15,Western Carolina,5,1,0,2012,2012
+51,0,0,SWAC,7,5,5,10,0,0,10,5,8,6,45,3,7,James Edwards,15,Southern,1,1,10,2020,2020
+52,5,0,A-Sun,3,7,6,20,1,5,25,0,0,15,76,4,4,Selden Edwards,15,Gardner-Webb,3,4,7,2007,2007
+53,2,1,MVC,5,6,6,12,0,1,13,3,7,14,51,2,7,C.J. Erickson,15,Evansville,1,4,7,2009,2009
+54,1,1,SWAC,10,6,4,5,2,3,8,1,2,10,41,4,5,Josh Everett,15,Jackson State,3,3,14,2020,2019
+55,8,0,Big South,12,6,6,12,0,2,14,3,9,39,143,3,15,Dominic Ezeani,15,Longwood,6,4,15,2018,2017
+56,11,0,Patriot,18,7,7,15,0,1,16,1,9,25,135,10,9,Nick Finke,15,Army,1,7,28,2020,2018
+57,2,0,Big East,2,5,3,6,2,9,15,3,4,26,39,0,6,Andrew Fonts,15,Providence,3,2,2,2020,2018
+58,5,0,Ivy,7,5,2,7,3,4,11,2,5,24,94,0,15,Matt Fraschilla,15,Harvard,3,11,7,2017,2014
+59,8,0,Big Sky,4,6,5,12,1,5,17,2,2,18,119,0,16,Evan Garrison,15,Portland State,2,4,4,2016,2016
+60,3,2,MEAC,7,6,6,10,0,0,10,3,8,5,60,8,14,Jakeel Gary,15,Norfolk State,3,7,15,2007,2007
+61,3,1,Ivy,4,4,4,12,0,4,16,7,11,9,37,7,3,Michael Gately,15,Columbia,1,2,11,2007,2007
+62,19,2,Horizon,16,4,3,10,1,9,19,6,6,20,105,1,14,CJ Gettelfinger,15,Oakland,6,15,17,2020,2020
+63,3,0,Total,6,4,2,6,2,6,12,5,6,9,30,2,0,Adam Glenville,15,Oral Roberts,0,2,8,2016,2014
+64,2,4,SWAC,10,6,5,7,1,5,12,2,3,7,68,5,8,Therrell Gosier II,15,Alabama State,3,11,15,2019,2019
+65,3,0,Big Sky,1,5,4,12,1,1,13,4,8,10,47,1,2,Zach Graves,15,Montana,3,4,2,2008,2008
+66,7,0,Total,13,6,3,12,3,16,28,0,5,39,124,8,15,Trevon Gross Jr.,15,Total,6,8,21,2019,2017
+67,3,1,Summit,6,5,4,7,1,5,12,4,7,22,65,3,8,Rylen Grundy,15,Purdue-Fort Wayne,4,5,9,2020,2019
+68,1,4,WAC,20,7,7,17,0,0,17,1,6,14,80,6,7,Colin Hallberg,15,Boise State,2,3,26,2007,2007
+69,1,2,Big Ten,5,6,6,8,0,0,8,3,6,16,66,8,10,Jermaine Hamlin,15,Illinois,2,5,13,2020,2020
+70,3,0,Horizon,3,5,3,17,2,8,25,3,8,26,75,3,9,Jimmy Harding,15,Illinois-Chicago,4,6,6,2011,2008
+71,9,0,Patriot,5,4,2,4,2,8,12,5,5,19,54,2,4,Jeff Harris,15,Holy Cross,4,9,7,2012,2009
+72,6,0,Big South,2,5,3,6,2,8,14,3,5,18,118,2,8,Deacon Heath,15,North Carolina-Asheville,1,3,4,2020,2019
+73,1,1,Pac-10,8,7,7,14,0,2,16,1,2,19,69,2,8,Chris Henry,15,Washington State,2,5,10,2008,2007
+74,3,0,OVC,6,5,0,9,5,16,25,0,1,14,70,0,1,Greg Holley,15,Tennessee State,5,7,6,2010,2009
+75,1,2,Big South,6,6,5,14,1,2,16,2,5,2,41,6,3,Frank Holloway,15,Longwood,1,7,12,2013,2013
+76,0,0,Horizon,3,5,3,7,2,6,13,3,5,6,41,0,5,Austin Hood,15,Illinois-Chicago,1,2,3,2010,2010
+77,1,0,Patriot,3,5,0,3,5,19,22,0,0,11,55,1,4,Jason Houle,15,Army,1,3,4,2018,2017
+78,3,0,MVC,5,5,2,3,3,8,11,2,2,14,60,2,6,Sean Houpt,15,Bradley,1,2,7,2020,2020
+79,3,1,A-Sun,16,6,6,13,0,1,14,3,9,14,92,8,11,Logan Hovey,15,Florida Gulf Coast,2,3,24,2015,2015
+80,0,2,Summit,3,4,0,4,4,15,19,3,5,21,87,0,8,John Hubler,15,IUPUI,1,7,3,2016,2015
+81,2,0,Big South,9,7,6,7,1,1,8,0,0,15,31,2,4,Keyshawn Hunter,15,Winthrop,1,0,11,2020,2019
+82,11,0,Pac-10,5,5,5,9,0,4,13,5,7,16,105,2,4,Marcus Jackson,15,Arizona State,4,8,7,2011,2010
+83,0,6,Big Ten,25,7,7,16,0,0,16,1,4,44,211,6,40,Tijan Jobe,15,Indiana,0,13,31,2010,2009
+84,4,0,MAC,6,5,5,11,0,1,12,5,7,18,35,1,2,Tyrone Jordan,15,Central Michigan,1,3,7,2008,2007
+85,1,0,ACC,1,4,2,2,2,2,4,5,5,11,19,2,0,Grant Kersey,15,Virginia,2,2,3,2020,2019
+86,8,0,MAAC,4,5,5,11,0,1,12,5,8,15,58,3,7,Ashton Khan,15,Canisius,4,6,7,2011,2011
+87,3,5,Big East,18,5,1,6,4,5,11,1,6,18,94,6,19,Mike Kinsella,15,Marquette,0,7,24,2007,2007
+88,10,0,Southern,9,6,6,13,0,9,22,3,5,19,93,7,13,Kobe Langley,15,North Carolina-Greensboro,13,11,16,2020,2020
+89,3,0,Total,7,4,0,1,4,7,8,3,4,22,80,3,7,Ethan Lasko,15,Total,2,7,10,2020,2018
+90,12,1,MAAC,6,7,6,11,1,1,12,0,2,15,95,1,3,Chris Leppanen,15,Siena,2,10,7,2013,2013
+91,3,0,Big Sky,10,6,6,11,0,1,12,3,8,15,94,11,11,Keshawn Liggins,15,Idaho State,4,1,21,2017,2017
+92,17,1,Pac-10,6,5,2,4,3,9,13,2,2,29,119,1,8,David Liss,15,University of California,1,8,7,2008,2007
+93,1,1,Ivy,6,5,4,5,1,5,10,4,4,17,48,2,4,Miki Ljuboja,15,Brown,3,7,8,2017,2015
+94,5,0,A-Sun,12,6,4,6,2,13,19,1,2,23,134,1,11,Chad Lutkenhaus,15,Florida Gulf Coast,4,7,13,2011,2011
+95,1,2,SEC,4,4,2,5,2,11,16,5,9,28,51,1,2,Will Macoy,15,Auburn,3,1,5,2020,2017
+96,2,5,Big South,19,6,6,15,0,0,15,3,6,23,161,15,34,Georges Massoda,15,High Point,6,13,34,2012,2011
+97,5,0,CUSA,9,4,1,2,3,9,11,4,4,25,135,1,19,Anderson McCoy,15,Alabama-Birmingham,0,7,10,2019,2018
+98,3,0,CAA,10,6,3,4,3,10,14,0,0,38,95,3,7,Brian McDonald,15,Northeastern,2,4,13,2010,2007
+99,1,5,SWAC,13,6,6,17,0,2,19,3,4,18,186,8,47,Lonnie McElwain,15,Grambling,2,13,21,2015,2015
+100,4,1,Big Ten,5,6,6,13,0,3,16,3,5,23,82,5,10,Jean-Marc Melchior,15,Northwestern,4,6,10,2008,2007
+101,9,1,Big 12,8,4,2,2,2,7,9,5,7,24,136,0,11,Dee Mitchell,15,Oklahoma State,3,7,8,2020,2019
+102,0,1,Ivy,5,5,1,3,4,6,9,1,2,10,46,1,4,Jason Mitchell,15,Cornell,2,3,6,2007,2007
+103,3,2,MVC,36,6,6,19,0,0,19,3,8,44,311,13,54,Nate Mitchell,15,Southern Illinois,4,13,49,2011,2010
+104,1,1,Patriot,7,3,2,4,1,9,13,8,11,11,58,0,10,Chall Montgomery,15,Navy,2,7,7,2012,2012
+105,1,0,Ivy,6,6,6,9,0,0,9,3,5,11,28,2,6,Hashim Moore,15,Princeton,0,4,8,2015,2014
+106,0,0,SEC,5,5,3,7,2,8,15,3,8,13,52,1,2,Tevin Moore,15,Mississippi State,0,3,6,2014,2014
+107,0,0,A-Sun,5,5,2,2,3,6,8,2,2,11,23,1,2,Brady Moses,15,Stetson,0,1,6,2018,2017
+108,3,0,CAA,1,5,2,4,3,6,10,2,4,14,27,0,1,Omar Mostafa,15,William & Mary,3,2,1,2018,2017
+109,1,3,Horizon,3,6,6,15,0,4,19,3,4,5,58,4,4,Brandon Neel,15,Wright State,4,2,7,2016,2016
+110,7,0,A-10,2,4,1,2,3,8,10,4,6,22,87,0,9,Lucas Newton,15,Duquesne,2,9,2,2010,2008
+111,8,0,CUSA,6,7,6,9,1,6,15,0,1,17,74,4,13,Jonathan Nunaz,15,Florida International,1,4,10,2020,2020
+112,2,1,Total,0,4,2,4,2,3,7,5,7,23,53,0,11,Keith Oddo,15,Total,1,1,0,2020,2017
+113,4,0,SWAC,4,6,5,12,1,2,14,2,7,5,34,0,6,Denarius Odell,15,Alcorn State,3,3,4,2014,2014
+114,1,0,Total,7,6,6,14,0,0,14,3,7,30,62,7,11,Mogboluwaga Oginni,15,Creighton,0,3,14,2015,2013
+115,4,0,MAC,7,7,7,17,0,1,18,1,2,18,104,3,10,Richard Oruche,15,Northern Illinois,2,6,10,2007,2007
+116,1,0,Big West,7,5,1,2,4,11,13,1,2,12,65,2,3,Gaber Ozegovic,15,Cal State Fullerton,2,6,9,2019,2019
+117,3,0,Southland,13,6,3,3,3,16,19,0,0,16,59,6,6,Dean Pele,15,Stephen F. Austin,1,4,19,2008,2008
+118,0,0,Total,6,4,3,4,1,1,5,6,6,27,46,2,6,Connor Perkey,15,Davidson,1,1,8,2017,2013
+119,3,1,MAC,12,5,5,11,0,3,14,5,9,16,59,1,5,Ian Pinckney,15,Kent State,1,1,13,2010,2010
+120,2,0,SWAC,6,5,3,5,2,5,10,3,4,10,57,1,4,Jamar Pope,15,Alabama State,4,2,7,2015,2015
+121,3,18,Horizon,31,6,6,12,0,0,12,3,9,21,108,11,14,Burleigh Porte,15,Milwaukee,2,4,42,2010,2009
+122,2,2,CUSA,5,5,4,11,1,8,19,4,5,6,44,3,7,Bennie Rhodes,15,Southern Methodist,0,3,8,2008,2008
+123,0,7,MAAC,8,7,7,14,0,0,14,1,3,12,78,5,16,Daniel Robinson,15,Iona,1,2,13,2015,2014
+124,2,1,Big 12,16,6,5,16,1,11,27,2,12,20,138,10,12,Hidde Roessink,15,Oklahoma State,3,9,26,2020,2020
+125,3,0,Big 12,6,5,4,9,1,3,12,4,4,28,55,2,10,Richard Romeo,15,West Virginia,0,4,8,2016,2013
+126,4,0,MEAC,5,3,3,10,0,0,10,9,14,10,89,1,12,Kendall Salley,15,Howard,1,8,6,2011,2011
+127,5,2,AAC,10,7,7,21,0,0,21,1,3,15,84,1,9,Karim Sameh Azab,15,Memphis,1,4,11,2018,2018
+128,1,0,Big 12,4,4,0,1,4,9,10,3,4,12,33,1,1,Kellen Sampson,15,Oklahoma,1,2,5,2007,2007
+129,4,0,GWC,7,6,5,15,1,11,26,2,5,25,164,8,23,Rico Seagears,15,Texas-Rio Grande Valley,5,11,15,2010,2010
+130,5,1,Horizon,7,6,5,16,1,2,18,2,5,13,65,4,11,Derek Semenas,15,Green Bay,3,5,11,2011,2011
+131,2,0,Big West,6,7,6,10,1,4,14,0,0,10,44,1,9,B.J. Shaw,15,UC-Davis,1,3,7,2020,2020
+132,2,0,SWAC,5,4,4,13,0,3,16,7,13,8,59,4,8,Dominique Shaw,15,Prairie View,4,1,9,2016,2016
+133,3,0,ACC,8,3,0,2,3,6,8,6,8,15,45,2,4,Quinn Slazinski,15,Louisville,0,4,10,2020,2020
+134,1,1,MWC,4,6,3,7,3,4,11,0,0,10,47,1,2,Djordjije Sljivancanin,15,Nevada-Las Vegas,0,1,5,2017,2017
+135,1,0,Patriot,6,4,2,7,2,12,19,5,8,12,50,7,9,Ryan Spadaford,15,Navy,4,2,13,2013,2013
+136,0,0,Total,5,6,6,10,0,3,13,3,6,21,45,9,5,Dan Stockdale,15,North Dakota,0,1,14,2013,2011
+137,5,0,Big 12,6,6,4,6,2,7,13,1,1,27,53,1,1,Ford Stuen,15,Oklahoma State,1,3,7,2016,2013
+138,8,0,A-Sun,11,4,4,9,0,0,9,7,10,23,72,0,11,Tevin Swann,15,Mercer,5,5,11,2010,2010
+139,6,0,Big South,9,6,6,10,0,10,20,3,4,19,52,3,12,Jacob Talbert,15,Campbell,3,6,12,2017,2014
+140,1,8,Big Sky,18,7,7,18,0,0,18,1,5,27,146,5,21,Tom Taylor,15,Idaho State,1,6,23,2009,2008
+141,2,0,Southland,2,6,3,7,3,10,17,0,1,5,29,1,7,Tyrease Terrell,15,Nicholls State,0,1,3,2020,2020
+142,1,1,MVC,8,6,5,8,1,7,15,2,4,25,54,1,6,Javaka Thompson,15,Illinois State,0,2,9,2017,2016
+143,6,0,MEAC,4,5,2,5,3,11,16,2,3,12,56,2,4,Quincy Tillinghast,15,Delaware State,2,8,6,2017,2015
+144,0,1,CUSA,4,5,5,9,0,0,9,5,8,17,56,2,11,Hippolyte Tsafack,15,Memphis,0,3,6,2013,2011
+145,12,2,Big West,26,6,4,17,2,7,24,1,3,48,182,14,16,Jordan Turner,15,Pacific,6,7,40,2013,2010
+146,4,0,WCC,5,5,0,1,5,20,21,0,0,18,116,2,20,Jeff Van Dyke,15,Pepperdine,4,6,7,2014,2014
+147,0,8,Pac-12,11,7,7,10,0,0,10,1,2,9,43,4,5,Matt Van Komen,15,Utah,0,1,15,2020,2020
+148,1,2,CUSA,14,5,5,14,0,0,14,5,13,27,74,6,8,Ivan Venegas,15,Texas-El Paso,0,4,20,2017,2016
+149,1,0,CUSA,9,6,6,18,0,0,18,3,7,25,54,1,8,Luke Walker,15,Louisiana Tech,2,4,10,2017,2016
+150,2,0,SEC,3,5,4,6,1,5,11,4,4,7,38,0,3,Jaykwon Walton,15,Georgia,0,1,3,2020,2020
+151,3,1,Sun Belt,16,5,5,21,0,2,23,5,10,22,126,1,12,Jerron Washington,15,Little Rock,4,7,17,2015,2015
+152,0,1,WCC,4,5,1,1,4,10,11,1,2,12,40,0,1,Wyatt Watson,15,Portland,0,1,4,2020,2020
+153,9,1,MVC,16,5,2,3,3,16,19,2,4,13,134,5,18,Judd Welfringer,15,Drake,6,6,21,2012,2012
+154,1,0,Big Sky,7,4,4,9,0,0,9,7,9,16,65,3,16,Clark Wilkinson,15,Idaho State,0,1,10,2017,2017
+155,2,0,Summit,5,6,6,11,0,0,11,3,3,8,23,3,2,Odell Wilson IV,15,North Dakota State,0,6,8,2020,2020
+156,5,1,ACC,9,6,4,8,2,10,18,1,4,37,70,2,3,Jack Wooten,15,North Carolina,0,2,11,2009,2008
+157,1,0,Big Sky,4,5,0,2,5,13,15,0,1,22,78,1,13,Jamion Wright,15,Sacramento State,2,7,5,2019,2018
+158,2,0,MAAC,7,5,3,7,2,5,12,3,4,8,43,1,4,Denzel Yard,15,Siena,3,8,8,2010,2010
+159,9,1,Big 12,10,5,5,9,0,3,12,5,11,32,111,1,12,Clay Young,15,Kansas,2,4,11,2018,2016
+160,0,2,Horizon,2,5,0,2,5,11,13,0,0,14,45,0,3,Cale Zuiker,15,Youngstown State,2,2,2,2012,2012
+161,6,3,Pac-10,13,5,3,8,2,11,19,2,5,12,87,5,10,Thomas Abercrombie,14,Washington State,2,4,18,2008,2008
+162,6,3,Horizon,12,5,3,9,2,4,13,2,3,43,121,6,12,Alex Anglin,14,Butler,0,4,18,2011,2008
+163,0,0,MAAC,2,6,4,8,2,3,11,0,4,12,25,2,2,Vince Anthony,14,Marist,2,0,4,2008,2007
+164,10,0,MAC,4,2,1,6,1,6,12,9,10,17,89,1,16,Lucas Antunez,14,Toledo,1,8,5,2017,2017
+165,1,4,AEC,11,3,3,8,0,0,8,8,12,14,58,5,4,Ador Athuia,14,Binghamton,0,6,16,2020,2020
+166,5,0,MWC,13,4,1,6,3,7,13,3,9,12,67,2,3,Jon Atkins,14,Air Force,2,5,15,2009,2009
+167,2,0,MVC,5,4,3,6,1,2,8,5,10,32,66,1,3,Jake Baughman,14,Loyola (IL),1,2,6,2020,2017
+168,0,0,Big South,5,4,4,7,0,0,7,6,9,6,18,3,2,Mike Bedulskis,14,North Carolina-Asheville,1,1,8,2014,2014
+169,3,1,Southern,9,7,7,13,0,0,13,0,1,13,58,8,8,Ben Beeker,14,Furman,2,0,17,2020,2020
+170,0,0,Summit,2,3,2,7,1,1,8,7,12,6,17,6,3,Hichem Benayad-Cherif,14,Purdue-Fort Wayne,0,2,8,2012,2012
+171,3,0,Patriot,3,4,2,3,2,9,12,4,7,15,36,0,1,Sean Billerman,14,Army,0,0,3,2015,2012
+172,3,0,Big Sky,2,5,5,9,0,3,12,4,6,21,97,0,9,Jerome Blockmon,14,Sacramento State,2,8,2,2009,2009
+173,7,0,Big Sky,5,5,5,9,0,3,12,4,7,13,55,2,5,Wayne Bradford,14,Weber State,0,6,7,2013,2013
+174,1,0,Patriot,2,4,3,6,1,1,7,5,5,17,28,1,4,Brandon Bradsher,14,Loyola (MD),0,2,3,2020,2019
+175,3,0,Big East,2,6,4,6,2,2,8,0,2,8,31,1,0,Chris Brickley,14,Louisville,1,1,3,2010,2010
+176,2,2,Summit,16,5,3,7,2,7,14,2,2,12,95,3,12,Carter Brooks,14,North Dakota,2,2,19,2019,2019
+177,2,1,Horizon,8,5,4,5,1,9,14,3,4,10,54,2,7,Jacob Brown,14,Youngstown State,3,2,10,2018,2018
+178,2,0,CAA,6,5,2,11,3,9,20,1,5,15,43,4,5,Myk Brown,14,Virginia Commonwealth,1,2,10,2008,2008
+179,3,0,MEAC,3,6,4,10,2,8,18,0,0,7,44,3,3,Amaru Bryant,14,Savannah State,2,5,6,2019,2019
+180,0,0,ACC,4,4,0,0,4,14,14,2,4,21,32,0,3,Dewey Burke,14,North Carolina,0,4,4,2007,2007
+181,11,0,Big South,10,5,5,12,0,0,12,4,10,33,123,6,18,Bryan Burrell,14,Gardner-Webb,5,14,16,2011,2010
+182,4,0,SEC,0,5,3,7,2,3,10,2,2,25,38,0,1,Quinn Cannington,14,Tennessee,1,1,0,2010,2007
+183,1,3,WAC,5,5,1,6,4,20,26,0,0,16,101,3,13,Alex Carr,14,Louisiana Tech,3,2,8,2012,2012
+184,14,0,Horizon,11,4,2,13,2,17,30,4,5,20,104,3,12,Ed Carter III,14,Detroit Mercy,4,8,14,2017,2017
+185,9,0,GWC,16,6,5,15,1,5,20,1,2,24,250,5,28,Mashawn Chamberlain,14,Chicago State,9,11,21,2013,2013
+186,2,0,A-10,1,4,0,0,4,6,6,2,2,8,15,1,2,Zach Chu,14,Richmond,0,2,2,2015,2012
+187,0,0,SWAC,11,6,5,11,1,1,12,1,1,8,58,2,4,Caleb Coleman,14,Prairie View,0,2,13,2020,2020
+188,1,0,OVC,0,5,3,3,2,11,14,2,2,14,28,1,1,Mason Cooper,14,Eastern Kentucky,3,0,1,2020,2019
+189,14,0,MEAC,10,5,3,9,2,15,24,2,2,25,74,1,4,Justin Cotten,14,Howard,4,6,11,2019,2018
+190,0,5,CUSA,12,7,7,13,0,0,13,0,0,19,89,5,16,Isaiah Cozart,14,Western Kentucky,2,3,17,2020,2020
+191,1,0,CUSA,9,5,2,8,3,3,11,1,2,6,59,3,7,Marius Craciun,14,Rice,2,6,12,2007,2007
+192,1,1,Big Ten,7,4,0,1,4,9,10,2,2,8,49,0,5,Samari Curtis,14,Nebraska,0,2,7,2020,2020
+193,4,0,SEC,2,5,2,9,3,8,17,1,2,14,29,1,1,Drew Davis,14,Mississippi State,1,4,3,2018,2017
+194,3,0,A-10,0,4,4,7,0,2,9,6,8,19,29,1,7,Hank Davis,14,La Salle,1,3,1,2017,2014
+195,0,5,OVC,5,6,6,9,0,0,9,2,4,13,30,1,4,Nick Detlev,14,Tennessee-Martin,0,3,6,2017,2016
+196,5,0,Sun Belt,4,5,4,10,1,5,15,3,4,20,69,2,4,Jose Diaz,14,South Alabama,1,7,6,2012,2011
+197,8,0,CUSA,21,4,1,4,3,12,16,3,5,21,132,5,24,Jeremy Dillon,14,Marshall,7,12,26,2020,2020
+198,3,3,Ivy,7,6,6,15,0,5,20,2,7,10,81,4,13,Cem Dinc,14,Harvard,1,6,11,2008,2008
+199,1,0,WAC,9,6,6,13,0,1,14,2,8,21,70,2,7,Anthony Dixon,14,San Jose State,0,3,11,2010,2010
+200,0,1,ACC,7,5,5,10,0,0,10,4,6,27,37,1,3,Greg Donlon,14,Virginia Tech,0,1,8,2017,2013
+201,4,0,MVC,4,6,4,11,2,4,15,0,0,13,62,0,1,Lijah Donnelly,14,Illinois State,2,3,4,2020,2020
+202,2,0,Southern,7,4,0,1,4,11,12,2,2,12,57,4,8,Michael Donovan,14,Virginia Military Institute,0,2,11,2015,2015
+203,3,0,Total,11,5,5,9,0,1,10,4,10,29,61,10,7,Francis Edosomwan,14,East Carolina,4,4,21,2015,2012
+204,32,4,A-Sun,18,5,5,38,0,2,40,4,10,27,342,5,30,BJ Edwards,14,Jacksonville,9,18,23,2015,2015
+205,5,8,SWAC,11,6,6,21,0,0,21,2,6,10,105,5,20,Brian Egwautu,14,Texas Southern,1,10,16,2007,2007
+206,3,0,AEC,1,6,5,9,1,3,12,1,4,16,63,0,4,David Fine,14,Binghamton,4,10,1,2009,2009
+207,4,0,Southland,4,4,4,4,0,2,6,6,8,18,54,4,1,Wesley Fritz,14,Sam Houston State,0,3,8,2012,2011
+208,8,0,AEC,3,4,1,2,3,8,10,3,4,21,61,0,5,Leo Gallagher,14,Binghamton,2,2,3,2020,2019
+209,2,0,MWC,6,5,1,1,4,8,9,0,0,5,32,2,4,Connor Garner,14,Utah State,2,3,8,2017,2017
+210,2,4,Big Sky,7,4,4,9,0,0,9,6,13,23,115,9,18,Kamil Gawrzydek,14,Idaho State,2,8,16,2011,2011
+211,7,0,WAC,2,3,0,1,3,8,9,5,10,21,78,1,0,Raef Gerdes,14,Grand Canyon,1,2,3,2020,2019
+212,2,2,Big Sky,8,4,3,8,1,4,12,5,9,21,45,2,4,Grant Gibb,14,Eastern Washington,1,2,10,2018,2017
+213,6,0,SWAC,5,4,0,2,4,28,30,2,3,24,127,0,6,Tavis Gibson,14,Alcorn State,7,9,5,2015,2015
+214,3,0,Horizon,3,5,4,12,1,2,14,3,8,28,67,4,4,Adam Giles,14,Wright State,3,3,7,2019,2017
+215,29,0,Ind,3,3,2,6,1,3,9,7,12,22,143,1,8,Michael Glasker,14,North Carolina Central,5,18,4,2011,2011
+216,4,8,A-10,13,7,7,18,0,0,18,0,1,11,105,11,15,Khiry Gordon,14,Fordham,7,9,24,2011,2010
+217,8,0,MVC,4,6,6,10,0,5,15,2,2,9,57,1,4,Mark Hall,14,Illinois State,0,4,5,2015,2015
+218,9,0,Total,12,5,5,8,0,0,8,4,11,25,71,4,10,Chris Halvorsen,14,Total,2,5,16,2013,2010
+219,0,0,Patriot,9,5,5,11,0,2,13,4,7,16,96,7,21,Austin Harriott,14,Loyola (MD),3,4,16,2017,2017
+220,3,0,Southern,6,4,3,7,1,10,17,5,8,29,61,1,2,T.K. Hayes,14,Furman,1,6,7,2017,2014
+221,3,0,Pac-12,4,5,5,11,0,2,13,4,8,30,51,0,2,Rodney Herenton,14,Stanford,2,5,4,2020,2017
+222,8,0,AEC,4,4,0,2,4,23,25,2,6,36,113,3,8,Ryan Herrion,14,New Hampshire,3,5,7,2012,2009
+223,2,2,SWAC,6,4,1,10,3,9,19,3,4,8,65,3,10,Lloyd Hickinson,14,Southern,1,3,9,2011,2011
+224,2,0,Big Ten,3,5,1,3,4,15,18,0,1,14,66,0,6,Adam Highberger,14,Penn State,1,4,3,2010,2007
+225,1,0,OVC,2,5,1,2,4,9,11,0,0,9,38,0,5,Will Holifield,14,Southeast Missouri State,1,1,2,2014,2014
+226,1,2,Big East,8,7,7,10,0,0,10,0,2,13,50,3,7,Doyle Hudson,14,Pittsburgh,0,1,11,2007,2007
+227,7,0,MEAC,5,5,5,16,0,1,17,4,9,15,83,4,10,Radin Hughes,14,South Carolina State,2,11,9,2015,2015
+228,2,0,Patriot,2,6,5,12,1,3,15,1,5,12,52,0,14,Adam Hyncik,14,Lehigh,3,5,2,2007,2007
+229,7,0,A-Sun,11,5,3,6,2,28,34,2,2,18,98,8,8,Cortez Irby,14,Kennesaw State,5,3,19,2010,2010
+230,0,1,A-10,2,5,5,9,0,0,9,4,5,9,17,3,7,Anthony Ivory,14,Temple,1,3,5,2007,2007
+231,1,0,MWC,4,4,3,7,1,2,9,5,10,10,28,4,5,Nikc Jackson,14,Air Force,2,1,8,2020,2020
+232,7,0,OVC,8,5,3,7,2,15,22,2,6,19,56,1,7,Jalen Johnson,14,Murray State,1,2,9,2019,2019
+233,2,0,Horizon,7,5,2,10,3,7,17,1,7,9,69,6,12,Kevin Johnson,14,Milwaukee,1,4,13,2008,2008
+234,5,1,MWC,15,5,3,8,2,7,15,2,6,11,127,7,15,Nick Jorgensen,14,Air Force,2,2,22,2014,2014
+235,3,15,A-10,20,6,6,10,0,0,10,2,12,17,126,11,23,Lounceny Kaba,14,St. Bonaventure,2,7,31,2007,2007
+236,3,0,Big West,12,7,7,15,0,0,15,0,0,15,44,8,6,Dean Keeler,14,UC-Irvine,2,4,20,2020,2020
+237,4,0,Pac-12,8,5,3,7,2,4,11,2,5,20,72,1,6,Dimitrios Klonaras,14,University of California,1,4,9,2020,2020
+238,10,0,Big South,10,5,3,7,2,8,15,2,2,21,95,5,9,Mac Lake,14,Presbyterian,1,3,15,2014,2012
+239,1,3,A-10,11,4,4,7,0,0,7,6,9,21,66,4,9,Trey Lang,14,Massachusetts,0,1,15,2011,2008
+240,1,8,Patriot,17,6,6,14,0,0,14,2,7,41,114,9,24,Probese Leo,14,Bucknell,3,8,26,2012,2009
+241,3,0,Summit,10,6,6,10,0,1,11,2,4,14,59,2,21,Cameron Loepker,14,IUPUI,0,8,12,2013,2013
+242,6,1,MWC,7,4,2,3,2,7,10,4,5,7,76,1,11,Callum Long,14,Air Force,1,11,8,2014,2014
+243,1,1,Summit,13,4,2,5,2,10,15,4,6,15,84,3,17,Kyle Luedtke,14,Omaha,0,1,16,2020,2020
+244,7,3,Summit,14,5,1,3,4,14,17,0,4,8,86,3,14,Nick Mabbutt,14,South Dakota,3,8,17,2012,2012
+245,3,2,Big West,2,5,4,10,1,3,13,3,4,13,45,4,6,Ege Mala,14,UC-Irvine,0,2,6,2014,2014
+246,4,1,SWAC,6,5,3,10,2,10,20,2,5,10,61,6,7,Vincent Martin,14,Arkansas-Pine Bluff,2,4,12,2010,2010
+247,14,0,Southland,5,6,5,10,1,3,13,1,2,10,58,3,5,David Mason,14,Oral Roberts,2,7,8,2014,2014
+248,3,0,Summit,3,4,2,9,2,2,11,4,7,15,53,1,9,Trevor Mason,14,Missouri-Kansas City,3,5,4,2012,2011
+249,0,0,Big South,4,4,0,2,4,11,13,2,2,11,35,1,5,Nick Matson,14,Virginia Military Institute,1,3,5,2008,2007
+250,5,0,Big South,6,5,4,8,1,4,12,3,9,8,44,2,7,AJ McBride,14,North Carolina-Asheville,3,4,8,2020,2020
+251,2,0,MAC,6,6,4,6,2,8,14,0,0,20,43,4,4,John McCarty,14,Central Michigan,2,1,10,2018,2015
+252,0,2,MEAC,8,5,5,14,0,1,15,4,8,19,73,5,10,Jacob McIntosh,14,Maryland-Eastern Shore,1,2,13,2020,2020
+253,1,1,ACC,10,5,5,13,0,0,13,4,6,14,104,5,11,Justin McKoy,14,Virginia,1,3,15,2020,2020
+254,2,0,A-10,3,5,4,6,1,5,11,3,6,31,82,4,6,Duncan McLean,14,Richmond,5,8,7,2009,2007
+255,0,0,MWC,3,4,3,9,1,4,13,5,8,8,49,1,5,John Middleton,14,Utah State,2,1,4,2016,2016
+256,1,0,Big East,2,4,1,1,3,6,7,3,4,13,36,2,1,Stuart Miller,14,Louisville,1,7,4,2008,2007
+257,4,6,CUSA,9,4,1,5,3,5,10,3,6,15,72,5,9,Abdul Mohamed,14,North Texas,2,5,14,2020,2020
+258,16,0,Patriot,5,4,3,15,1,7,22,5,16,32,160,3,26,Justice Montgomery,14,American,4,16,8,2015,2014
+259,8,0,ACC,0,5,1,5,4,8,13,0,0,25,43,1,5,Wade Moody,14,North Carolina,1,5,1,2014,2013
+260,9,1,CAA,7,4,0,2,4,12,14,2,5,15,62,0,3,John Morris,14,Old Dominion,2,0,7,2007,2007
+261,5,1,SEC,10,5,3,5,2,7,12,2,2,19,88,7,11,Zach Naylor,14,Mississippi,2,6,17,2019,2019
+262,2,2,Big 12,9,6,6,18,0,2,20,2,4,32,59,7,6,Jacob Neubert,14,Baylor,2,5,16,2013,2011
+263,1,3,SWAC,7,5,4,25,1,9,34,3,7,16,127,5,14,Emmanuel Njomo,14,Southern,2,12,12,2007,2007
+264,8,0,Big 12,8,5,2,4,3,23,27,1,2,24,77,2,11,Obim Okeke,14,Baylor,4,7,10,2020,2018
+265,1,0,OVC,7,7,7,11,0,2,13,0,0,12,46,3,14,Domen Omladic,14,Tennessee Tech,1,4,10,2018,2018
+266,5,0,Summit,5,3,2,6,1,11,17,7,9,26,53,2,3,Trevor Osborn,14,Purdue-Fort Wayne,3,4,7,2017,2014
+267,1,0,NEC,10,5,1,6,4,18,24,0,0,21,120,0,8,Raynell Pascal,14,Fairleigh Dickinson,3,8,10,2008,2007
+268,0,1,Big South,6,5,5,16,0,0,16,4,11,16,51,10,7,Nathan Payne,14,Charleston Southern,0,1,16,2019,2018
+269,4,1,CUSA,3,5,2,5,3,14,19,1,3,7,47,1,3,Cordell Pope,14,Central Florida,3,2,4,2008,2008
+270,0,0,MAAC,3,5,1,2,4,8,10,0,1,14,31,1,3,Patrick Ramsey,14,Marist,1,0,4,2014,2013
+271,2,1,SWAC,6,6,6,12,0,0,12,2,6,11,67,5,19,Joseph Reed,14,Mississippi Valley State,1,3,11,2008,2008
+272,1,1,GWC,2,5,3,6,2,9,15,2,6,22,64,3,5,Alex Roberts,14,Chicago State,2,4,5,2010,2010
+273,0,1,WCC,1,6,6,8,0,0,8,2,2,6,32,4,4,Julian Roche,14,Santa Clara,1,2,5,2018,2018
+274,2,0,Pac-12,8,5,4,5,1,2,7,3,4,18,46,2,5,Jack Ryan,14,Stanford,4,2,10,2014,2012
+275,1,0,Big West,5,5,1,7,4,16,23,0,1,14,100,0,2,Andy Saharan,14,UC-Riverside,0,2,5,2011,2011
+276,1,0,Big South,2,4,0,2,4,7,9,2,2,18,30,1,1,Anias Saunders,14,Radford,0,2,3,2019,2018
+277,4,2,SWAC,4,6,5,11,1,4,15,1,1,21,61,1,9,Darius Scott,14,Alabama State,0,3,5,2015,2014
+278,1,0,SWAC,3,5,4,14,1,6,20,3,7,12,39,5,4,Jayvian Scranton,14,Prairie View,5,3,8,2012,2012
+279,1,2,Southland,5,4,4,12,0,0,12,6,13,20,66,3,12,Sharife Sergeant,14,Stephen F. Austin,1,4,8,2014,2014
+280,4,9,GWC,27,4,4,14,0,0,14,6,13,37,192,12,26,Will Sinclair,14,Utah Valley,1,8,39,2013,2012
+281,0,0,Southern,3,5,1,7,4,10,17,0,0,19,35,1,2,Tauras Skripkauskas,14,College of Charleston,0,3,4,2008,2007
+282,0,0,Southern,2,5,3,7,2,12,19,2,2,16,31,1,0,Aaron Smith,14,Elon,2,1,3,2013,2010
+283,6,0,Big 12,7,4,2,7,2,14,21,4,5,34,92,1,9,Andrew Sorrells,14,Texas Tech,4,4,8,2019,2016
+284,0,0,MAC,1,5,2,4,3,6,10,1,5,5,7,1,0,Jonas Stalyga,14,Akron,0,0,2,2013,2013
+285,2,1,WCC,12,5,4,11,1,2,13,3,4,9,48,3,5,Austin Stone,14,Portland,1,0,15,2018,2018
+286,2,1,Southern,4,5,3,5,2,2,7,2,4,12,22,1,1,Trey Swinton,14,Citadel,1,1,5,2007,2007
+287,3,0,Big West,6,6,4,7,2,4,11,0,2,10,39,2,4,Chris Tang,14,UC-Riverside,0,1,8,2015,2015
+288,2,0,Southern,1,5,1,3,4,7,10,0,0,10,36,0,4,Brandon Thompson,14,Citadel,0,1,1,2015,2015
+289,0,1,Southland,10,4,2,2,2,7,9,4,5,34,70,0,9,Myles Thornton,14,Incarnate Word,2,1,10,2018,2017
+290,2,0,SWAC,5,6,6,13,0,3,16,2,5,11,49,1,4,Jason Tolliver,14,Arkansas-Pine Bluff,2,3,6,2009,2008
+291,4,0,SWAC,3,5,1,3,4,13,16,0,0,20,81,0,8,Tyson Tufono,14,Alcorn State,0,6,3,2012,2012
+292,3,3,Patriot,8,5,1,6,4,14,20,0,0,19,100,3,11,Jake Van Der Heijden,14,Bucknell,3,4,11,2020,2020
+293,5,0,Patriot,4,4,2,5,2,5,10,4,4,19,44,2,1,Jay Vaughan,14,Lafayette,0,2,6,2020,2019
+294,15,0,Total,12,4,2,6,2,8,14,4,5,31,146,2,22,Riley Welch,14,Total,4,7,14,2020,2018
+295,3,1,SWAC,8,6,6,25,0,13,38,2,2,20,135,5,12,McCall Wollman,14,Southern,5,12,13,2010,2009
+296,1,0,Ivy,7,5,1,5,4,6,11,0,2,22,54,2,3,Zach Yoshor,14,Harvard,0,2,9,2018,2015
+297,5,0,Big Sky,7,5,1,3,4,15,18,0,0,7,43,0,7,Zack Zaragoza,14,Northern Arizona,2,2,7,2009,2009
+298,2,1,CUSA,9,4,0,4,4,17,21,2,4,11,91,4,7,Maros Zuffa,14,Southern Mississippi,4,5,13,2007,2007
+299,0,1,Patriot,3,6,5,7,1,1,8,0,0,15,47,4,8,Shane Acoveno,13,Lehigh,0,4,7,2019,2018
+300,1,2,AEC,7,6,5,13,1,2,15,0,3,26,78,3,10,Tunde Agboola,13,Boston University,3,2,10,2010,2007
+301,1,1,Big West,10,4,4,9,0,1,10,5,5,10,38,2,5,Regan Andersen,13,Cal State Fullerton,1,2,12,2009,2009
+302,3,0,Sun Belt,15,4,2,7,2,11,18,3,4,9,62,1,3,Calvin Anderson,13,Louisiana-Monroe,0,5,16,2019,2018
+303,0,0,Sun Belt,1,5,4,6,1,3,9,2,2,13,18,2,1,K.C. Anuna,13,Middle Tennessee,0,1,3,2011,2009
+304,2,3,Horizon,8,4,4,7,0,3,10,5,6,16,96,3,20,Nick Arenz,13,Green Bay,1,3,11,2013,2013
+305,2,6,NEC,12,5,5,12,0,0,12,3,5,15,84,5,11,Kwe Askew,13,Long Island University,1,2,17,2017,2017
+306,10,0,NEC,15,5,4,12,1,10,22,2,4,23,145,1,14,Callum Baker,13,Fairleigh Dickinson,2,7,16,2020,2020
+307,1,3,Sun Belt,12,5,5,16,0,0,16,3,9,23,103,5,22,Cornell Barnett,13,Louisiana,3,8,17,2013,2013
+308,0,0,AAC,6,5,4,12,1,3,15,2,2,13,51,3,7,Joseph Battle,13,Tulsa,0,3,9,2017,2017
+309,2,0,Big 12,3,4,0,0,4,8,8,1,3,17,22,1,0,Nick Berardini,13,Missouri,1,1,4,2008,2007
+310,1,3,SEC,9,1,1,3,0,0,3,11,13,33,55,2,17,Cole Blackstock,13,Auburn,0,0,11,2019,2016
+311,4,0,Horizon,4,4,2,5,2,6,11,3,4,11,26,1,5,Justin Bofenkamp,13,Youngstown State,1,4,5,2020,2019
+312,1,0,MEAC,2,5,5,10,0,0,10,3,5,9,32,3,11,Ashwell Boyd,13,Delaware State,2,2,5,2014,2014
+313,18,0,ACC,20,4,1,1,3,9,10,2,6,35,159,2,21,Doug Browman,13,Virginia,4,13,22,2013,2010
+314,5,6,Patriot,2,5,5,16,0,0,16,3,5,15,62,6,7,Gabe Brown,13,American,0,8,8,2016,2015
+315,0,0,Big East,6,4,1,3,3,6,9,2,2,13,46,2,2,Jarrett Brown,13,West Virginia,2,3,8,2008,2008
+316,9,1,Patriot,15,5,4,9,1,12,21,2,4,40,155,13,12,Richard Brown,13,Army,4,11,28,2017,2014
+317,8,2,MVC,14,5,5,13,0,16,29,3,8,24,139,2,16,Armon Brummett,13,Bradley,11,12,16,2019,2019
+318,0,1,Summit,3,4,3,8,1,1,9,4,7,11,45,3,5,Nathan Brusseau,13,Omaha,1,2,6,2020,2020
+319,1,0,Big South,7,6,6,8,0,0,8,1,2,15,42,2,2,Nathan Campbell,13,Liberty,0,2,9,2008,2008
+320,4,0,MAAC,2,5,5,8,0,1,9,3,10,25,45,3,1,Ryan Carmello,13,Marist,1,4,5,2020,2018
+321,5,0,Big West,5,4,2,3,2,6,9,3,5,14,48,0,7,Ian Clark ,13,Cal State Northridge,4,7,5,2013,2013
+322,7,0,CAA,7,4,4,5,0,8,13,5,6,17,104,3,20,Kaleb Clyburn,13,Delaware,3,4,10,2011,2011
+323,2,0,Horizon,19,5,5,15,0,0,15,3,5,23,111,7,14,Tom Cotter,13,Oakland,0,5,26,2018,2015
+324,10,1,SEC,18,2,2,10,0,0,10,9,14,51,169,7,18,Stephen Cox,13,Arkansas,11,4,25,2010,2008
+325,1,0,A-10,2,5,2,5,3,8,13,0,1,33,52,0,2,Eric Dadika,13,Rhode Island,1,6,2,2020,2017
+326,6,0,Total,5,5,3,8,2,10,18,1,4,23,81,5,5,Brandon Davis,13,Total,3,9,10,2011,2008
+327,9,0,Sun Belt,12,4,3,4,1,4,8,4,6,24,86,2,6,Stephen Dees,13,Louisiana,2,7,14,2008,2007
+328,1,3,A-Sun,6,5,5,13,0,0,13,3,6,12,78,1,26,Justin Diecker,13,Kennesaw State,1,7,7,2015,2015
+329,1,0,Patriot,6,4,1,2,3,7,9,2,3,9,52,3,4,Patrick Dorsey,13,Navy,1,0,9,2020,2020
+330,0,1,MAC,3,6,6,17,0,4,21,1,5,23,68,3,10,Ellis Dozier,13,Ohio,0,5,6,2018,2017
+331,1,1,MWC,12,6,6,12,0,0,12,1,6,9,47,4,7,Edmunds Dukulis,13,Boise State,0,2,16,2014,2014
+332,0,0,Summit,2,5,5,8,0,2,10,3,10,15,51,0,3,Will Dunn,13,Purdue-Fort Wayne,0,2,2,2014,2014
+333,5,2,Pac-12,10,2,0,3,2,10,13,7,10,33,78,3,6,Austin Eastman,13,Utah,3,5,13,2016,2014
+334,1,0,A-Sun,3,4,0,0,4,8,8,1,2,11,19,0,1,Blake Edwards,13,South Carolina Upstate,1,2,3,2017,2016
+335,1,2,Sun Belt,11,6,6,12,0,0,12,1,5,14,79,5,13,Ifeanyi Eke,13,Louisiana-Monroe,2,3,16,2013,2011
+336,7,0,Big East,3,4,3,9,1,4,13,4,8,28,50,0,5,Alex Eppensteiner,13,Cincinnati,3,3,3,2013,2010
+337,1,0,WAC,5,3,1,4,2,7,11,5,6,8,44,2,3,Ikem Eriobuna,13,Missouri-Kansas City,0,2,7,2016,2016
+338,2,1,Big Ten,11,4,4,7,0,1,8,5,6,27,51,3,1,Dan Fahey,13,Wisconsin,1,3,14,2013,2010
+339,0,0,A-10,0,4,3,6,1,2,8,4,8,18,23,0,1,Kamau Faines,13,Davidson,0,1,0,2017,2015
+340,0,0,Pac-12,4,4,2,2,2,6,8,3,4,10,16,0,1,Kyle Feit,13,Arizona State,0,2,4,2020,2019
+341,5,0,A-Sun,7,4,2,5,2,5,10,3,3,22,55,0,6,Zach Flener,13,Lipscomb,0,6,7,2019,2018
+342,4,0,Big West,3,5,4,7,1,4,11,2,3,9,54,5,5,Dominic Freeman,13,Cal State Long Beach,1,1,8,2007,2007
+343,8,0,Big East,5,4,3,7,1,6,13,4,8,20,105,2,11,Brad Gianiny,13,Louisville,5,10,7,2007,2007
+344,1,0,Ivy,4,4,1,1,3,11,12,2,2,7,35,0,4,Brad Gilson,13,Columbia,0,1,4,2013,2013
+345,1,1,MEAC,6,3,3,10,0,0,10,7,9,12,68,5,9,Zen Goodridge,13,Bethune-Cookman,2,3,11,2020,2020
+346,7,0,OVC,1,5,4,6,1,13,19,2,2,17,61,3,7,Kevin Gray,13,Morehead State,4,1,4,2011,2011
+347,2,2,WCC,12,4,4,9,0,0,9,5,10,29,88,3,18,Connor Griffin,13,Gonzaga,5,3,15,2015,2014
+348,3,0,MAC,6,4,3,9,1,1,10,4,10,31,103,11,13,Alex Grimsley,13,Kent State,4,11,17,2010,2009
+349,0,0,ACC,0,5,5,8,0,0,8,3,4,9,22,3,2,Paul Grinde,13,Clemson,0,2,3,2020,2020
+350,3,0,Big Ten,4,6,6,11,0,0,11,1,4,19,56,1,11,Jake Hannon,13,Michigan State,1,1,5,2007,2007
+351,1,0,SWAC,1,5,2,3,3,9,12,0,0,6,38,0,4,Charles Harper,13,Grambling,1,4,1,2007,2007
+352,1,0,MEAC,8,3,3,10,0,10,20,7,10,5,64,2,10,Jordan Herrera,13,North Carolina A&T,1,3,10,2012,2012
+353,1,0,Ivy,2,5,2,9,3,8,17,0,0,17,52,0,3,James Herring,13,Dartmouth,1,3,2,2011,2011
+354,2,0,SWAC,10,6,5,5,1,5,10,0,0,14,38,3,6,Michael Higgins,13,Mississippi Valley State,3,2,13,2008,2007
+355,2,0,SEC,2,4,0,0,4,9,9,1,2,14,21,2,0,Michael Hubert,13,Tennessee,1,3,4,2011,2009
+356,4,0,Total,4,3,2,4,1,6,10,6,11,18,50,0,10,Chad Hudson,13,IUPUI,1,5,4,2018,2017
+357,0,0,MVC,5,5,5,9,0,1,10,3,5,17,44,1,9,Daniel Huenermann,13,Indiana State,0,2,6,2019,2018
+358,0,2,ACC,15,5,5,8,0,0,8,3,8,13,61,2,12,Aidan Igiehon,13,Louisville,0,4,17,2020,2020
+359,0,0,MEAC,3,3,2,7,1,6,13,6,7,16,48,7,7,Julien Johnson,13,North Carolina A&T,1,3,10,2016,2014
+360,0,0,MWC,3,3,1,6,2,7,13,5,8,9,71,2,8,Tariq Johnson,13,Wyoming,0,4,5,2019,2019
+361,2,4,SWAC,12,4,4,7,0,0,7,5,9,13,80,5,12,Deante Jones,13,Texas Southern,3,4,17,2009,2009
+362,5,1,Ind,6,2,2,8,0,0,8,9,16,3,45,0,4,Gerald Jones,13,Southern Illinois-Edwardsville,3,6,6,2011,2011
+363,1,0,WAC,2,5,2,4,3,13,17,0,0,5,44,2,5,John Joyce,13,Chicago State,2,2,4,2018,2018
+364,2,1,Big Ten,11,5,2,4,3,15,19,0,3,13,77,3,3,Schyler King,13,Penn State,3,0,14,2008,2008
+365,1,0,AEC,5,4,1,4,3,13,17,2,2,19,69,1,7,Michael Knight,13,Albany (NY),1,2,6,2007,2007
+366,0,0,Big West,3,5,5,7,0,0,7,3,6,4,20,4,3,Jarrel Lake,13,Cal State Fullerton,0,2,7,2007,2007
+367,2,0,MVC,9,4,4,9,0,3,12,5,9,25,70,8,8,Tyler Lange,13,Northern Iowa,2,4,17,2012,2011
+368,0,0,Big South,9,4,3,4,1,5,9,4,10,14,34,4,9,Ashton Lawrence,13,Coastal Carolina,2,4,13,2009,2007
+369,12,1,Pac-12,6,2,2,7,0,1,8,9,10,20,113,1,9,Bryce Leavitt,13,Washington State,4,7,7,2013,2013
+370,4,0,MAAC,5,1,0,1,1,9,10,10,12,27,39,1,2,Andrew Leone,13,Fairfield,0,2,6,2017,2014
+371,10,0,ACC,7,4,3,4,1,2,6,4,6,19,37,2,5,Justin Lindner,13,Florida State,1,9,9,2020,2018
+372,2,0,MAC,2,5,2,4,3,10,14,0,1,19,31,1,4,Benjamin Litteken,13,Miami (OH),1,1,3,2020,2019
+373,0,0,MVC,3,5,2,2,3,6,8,0,0,10,49,1,8,Luke Litwiller,13,Illinois State,2,1,4,2018,2018
+374,2,4,Southland,12,6,6,13,0,0,13,1,2,9,57,4,12,Josh Lockett,13,Southeastern Louisiana,3,3,16,2011,2011
+375,1,0,SWAC,1,3,1,4,2,10,14,5,6,6,24,1,2,John Love,13,Prairie View,1,2,2,2013,2013
+376,2,0,A-10,4,4,3,9,1,8,17,4,4,15,70,1,6,Dustin Maguire,13,Saint Louis,2,0,5,2007,2007
+377,0,1,MAAC,5,4,1,2,3,13,15,2,4,24,86,1,18,Matt Maloney,13,Manhattan,2,4,6,2019,2016
+378,5,0,Big 12,11,4,2,10,2,6,16,3,4,34,105,3,8,Austin Mankin,13,Oklahoma,1,2,14,2016,2014
+379,2,0,Big South,5,5,2,5,3,10,15,0,2,12,41,2,8,Marshawn Martin,13,Coastal Carolina,2,6,7,2009,2009
+380,1,1,Total,7,6,5,10,1,5,15,0,1,9,42,2,6,Khalid McCaskill,13,Total,1,3,9,2015,2013
+381,1,0,Big 12,2,4,4,7,0,0,7,5,9,15,38,5,6,Ryan McClurg,13,Texas,0,4,7,2018,2015
+382,0,0,Southern,9,5,3,6,2,12,18,1,2,20,31,5,5,Jay McMillan,13,Appalachian State,1,2,14,2008,2007
+383,2,1,Southern,10,5,4,7,1,1,8,2,4,20,47,3,9,John Moody,13,Elon,3,5,13,2013,2010
+384,24,0,MEAC,4,2,1,9,1,8,17,8,11,37,208,7,28,Darrell Mosley,13,Delaware State,11,24,11,2008,2007
+385,4,0,NEC,1,4,0,1,4,7,8,1,2,13,44,1,4,Alan Mozee,13,Long Island University,2,4,2,2008,2008
+386,1,1,Big East,8,3,3,11,0,1,12,7,8,31,110,4,10,George Muresan,13,Georgetown,2,5,12,2020,2017
+387,0,6,CAA,15,4,4,13,0,0,13,5,8,24,85,12,24,Samba Ndiaye,13,College of Charleston,1,8,27,2020,2018
+388,2,0,MAC,9,5,5,13,0,0,13,3,6,13,85,11,10,DeAndre Nealy,13,Kent State,1,4,20,2011,2011
+389,2,0,Big West,4,5,4,5,1,1,6,2,4,9,41,1,3,Zoar Nedd,13,Hawaii,0,3,5,2020,2020
+390,2,0,AEC,11,5,5,12,0,0,12,3,4,10,80,1,11,Kazadi Nyanguila,13,New Hampshire,0,4,12,2011,2011
+391,1,0,MAAC,5,4,2,8,2,9,17,3,7,13,85,2,5,Charles Oliver,13,Rider,3,3,7,2012,2012
+392,3,3,Big East,10,5,5,11,0,0,11,3,7,7,40,3,12,Melvyn Oliver,13,Seton Hall,1,3,13,2010,2010
+393,2,1,AEC,0,5,3,6,2,11,17,1,2,9,37,1,4,Chris Page,13,Albany (NY),2,1,1,2013,2013
+394,0,1,CUSA,4,4,1,2,3,8,10,2,2,9,30,0,3,Jonas Page,13,Florida International,1,1,4,2015,2014
+395,3,0,Ind,3,5,4,9,1,1,10,2,4,18,58,1,4,Kwai Pearson,13,Cal State Bakersfield,5,6,4,2012,2012
+396,1,2,Total,8,6,5,8,1,6,14,0,2,30,52,3,10,Nick Pendergast,13,Temple,0,3,11,2015,2012
+397,3,0,Patriot,6,4,3,7,1,2,9,4,7,28,85,1,7,Romone Penny,13,American,5,7,7,2008,2007
+398,2,0,MVC,9,6,5,7,1,4,11,0,2,29,51,3,7,Ryan Phillips,13,Bradley,2,3,12,2010,2007
+399,2,0,Pac-12,13,4,4,12,0,5,17,5,6,17,99,0,13,Christian Popoola,13,Utah,2,8,13,2018,2018
+400,6,0,Total,11,4,2,6,2,13,19,3,4,25,146,0,12,Blake Provost,13,Texas-Rio Grande Valley,7,9,11,2014,2013
+401,0,2,Big Ten,1,5,2,4,3,5,9,0,0,13,26,2,4,Eric Puls,13,Michigan,0,1,3,2010,2009
+402,1,0,WAC,8,5,2,5,3,9,14,0,0,14,49,2,3,Justin Rake,13,Louisiana Tech,1,3,10,2011,2010
+403,4,4,MAAC,8,5,4,12,1,5,17,2,8,14,113,4,18,C.J. Reid,13,Saint Peter's,3,12,12,2009,2009
+404,1,0,Summit,0,6,6,8,0,1,9,1,1,6,13,4,0,Renardo Rhone,13,Oral Roberts,0,1,4,2009,2009
+405,1,1,A-Sun,6,6,6,11,0,1,12,1,4,6,77,3,7,Zack Riggins,13,North Florida,1,7,9,2010,2010
+406,0,5,Summit,8,4,4,11,0,1,12,5,7,12,45,5,8,Lorenzo Riley,13,North Dakota State,0,4,13,2009,2009
+407,6,0,Big East,4,4,1,9,3,10,19,2,4,24,41,0,2,Nick Rivers,13,Pittsburgh,1,5,4,2012,2010
+408,2,1,A-10,11,3,3,11,0,2,13,7,12,40,162,7,24,Khalid Robinson,13,Fordham,0,15,18,2014,2011
+409,6,0,Big West,2,6,5,8,1,8,16,0,0,7,45,6,9,Robbie Robinson,13,Cal State Fullerton,1,4,8,2010,2010
+410,2,1,Big West,6,5,4,10,1,7,17,2,3,15,69,4,7,Desmond Ross,13,Cal State Long Beach,0,3,10,2014,2014
+411,9,0,MVC,13,3,3,12,0,0,12,7,14,11,130,6,22,Torres Roundtree,13,Southern Illinois,2,13,19,2009,2009
+412,2,3,NEC,4,6,6,8,0,0,8,1,4,10,40,2,11,Bas Rozendaal,13,Robert Morris,0,4,6,2008,2008
+413,1,1,WAC,6,4,4,8,0,0,8,5,7,9,34,2,4,Ibrahima Sankare,13,Grand Canyon,5,3,8,2018,2018
+414,3,2,MAAC,8,5,2,2,3,8,10,0,0,17,99,3,9,Daniel Schreier,13,Manhattan,0,6,11,2019,2019
+415,1,0,MEAC,11,4,4,7,0,3,10,5,8,22,75,2,17,Shayne Scruggs,13,North Carolina A&T,0,5,13,2020,2020
+416,2,3,Sun Belt,6,6,6,11,0,2,13,1,2,9,45,1,5,Ed Seay,13,Texas State,0,4,7,2015,2015
+417,2,0,Ind,1,4,1,5,3,9,14,2,4,12,18,3,4,Steven Silva,13,Texas-Rio Grande Valley,0,1,4,2009,2008
+418,6,0,MVC,6,5,4,14,1,6,20,2,5,30,69,1,5,Dustin Sitzmann,13,Creighton,2,6,7,2009,2007
+419,5,0,Sun Belt,5,6,5,12,1,7,19,0,0,5,36,3,6,Reggie Sonnier,13,Little Rock,3,2,8,2011,2011
+420,5,3,Mid-Cont,11,6,6,12,0,0,12,1,3,12,104,11,16,Kyle Spears,13,Missouri-Kansas City,0,5,22,2007,2007
+421,3,0,ACC,4,4,3,5,1,6,11,4,7,24,36,1,2,Aaron Spivey,13,Wake Forest,2,1,5,2019,2017
+422,0,6,Total,10,3,2,11,1,1,12,6,8,21,61,9,9,Key Sullivan,13,Total,0,4,19,2020,2018
+423,4,0,Big South,3,5,4,13,1,10,23,2,2,19,62,2,3,Adam Sweeney,13,Gardner-Webb,1,3,5,2015,2013
+424,4,1,Southern,7,6,6,13,0,4,17,1,3,35,68,3,7,Joseph Tecklenburg,13,Wofford,3,8,10,2012,2009
+425,7,0,NEC,2,6,6,13,0,1,14,1,2,18,63,3,5,Ayan Teel,13,Mount St. Mary's,1,3,5,2020,2020
+426,1,1,Big West,7,3,3,8,0,0,8,7,9,17,84,9,14,Zach Thurow,13,Cal Poly,2,6,16,2008,2007
+427,0,0,WCC,0,5,2,2,3,4,6,0,0,5,8,0,1,Therone Tillett,13,San Diego,0,0,0,2014,2014
+428,7,0,WCC,6,5,5,13,0,5,18,3,4,20,99,4,14,Tyler Tucker,13,Pepperdine,4,8,10,2008,2008
+429,3,0,Total,3,5,5,12,0,0,12,3,6,10,58,4,7,Terrence Turner,13,Total,2,8,7,2012,2010
+430,1,0,MWC,9,5,2,3,3,4,7,0,0,14,18,0,0,Aaron Tyser,13,Wyoming,0,2,9,2014,2013
+431,1,2,Big Ten,10,6,6,13,0,0,13,1,4,27,71,5,8,Okey Ukah,13,Iowa,4,3,15,2016,2014
+432,0,0,Southern,1,4,0,1,4,9,10,1,2,6,20,2,2,Gregory Vlazny,13,North Carolina-Greensboro,1,2,3,2007,2007
+433,5,1,ACC,5,5,3,10,2,5,15,1,3,30,68,1,3,Rob Vozenilek,13,Virginia,1,4,6,2015,2012
+434,4,2,Big West,21,4,2,14,2,10,24,3,4,18,106,8,11,Austin Waggener,13,Cal State Northridge,5,3,29,2007,2007
+435,3,0,MVC,5,4,1,3,3,5,8,2,2,11,37,1,5,Jared Walker,13,Wichita State,0,2,6,2015,2015
+436,3,0,SEC,3,4,1,6,3,6,12,2,5,24,37,2,2,Tanner Wild,13,Tennessee,1,2,5,2009,2007
+437,11,0,SEC,5,4,2,5,2,7,12,3,7,48,225,2,34,Robert Wilder,13,South Carolina,6,14,7,2010,2008
+438,5,0,Sun Belt,9,5,4,15,1,4,19,2,7,16,96,3,15,Alphonso Williams,13,Louisiana,6,6,12,2007,2007
+439,1,2,MAAC,9,5,5,12,0,3,15,3,7,9,41,1,5,Josh Williams,13,Rider,1,5,10,2016,2016
+440,0,0,OVC,4,6,6,9,0,0,9,1,3,4,36,4,13,Cedric Wright,13,Morehead State,1,4,8,2018,2018
+441,1,3,Big East,5,5,5,10,0,0,10,2,2,5,24,4,7,Tyler Adams,12,Georgetown,0,2,9,2015,2012
+442,2,2,Ivy,4,6,6,11,0,0,11,0,1,9,23,3,5,Demilade Adelekun,12,Dartmouth,0,1,7,2020,2020
+443,2,0,MEAC,1,2,2,10,0,4,14,8,10,10,38,0,7,Niwayo Adjei,12,Coppin State,0,6,1,2013,2013
+444,0,0,CUSA,3,4,4,9,0,0,9,4,6,7,32,1,8,Jude Akabueze,12,Alabama-Birmingham,0,7,4,2020,2020
+445,1,1,SWAC,6,5,3,7,2,6,13,0,2,16,70,6,7,Vicktor Arnick,12,Texas Southern,1,5,12,2014,2014
+446,3,0,GWC,7,1,1,12,0,8,20,10,14,26,83,4,15,Aaron Asp,12,Houston Baptist,1,8,11,2012,2011
+447,2,0,NEC,3,4,4,5,0,1,6,4,4,15,34,1,3,Ren Azinge,12,Long Island University,3,3,4,2008,2007
+448,1,1,Big West,5,4,0,1,4,7,8,0,0,5,21,2,0,Cameron Ba,12,UC-Davis,0,1,7,2020,2020
+449,1,2,AEC,3,5,5,7,0,0,7,2,6,13,75,2,11,Stephane Bakinde,12,Stony Brook,3,4,5,2007,2007
+450,2,0,Patriot,3,5,5,11,0,1,12,2,5,22,68,8,11,Matt Banas,12,Bucknell,2,2,11,2016,2013
+451,0,0,SWAC,0,4,0,2,4,11,13,0,2,8,57,2,6,Nicholas Barnes,12,Alabama State,1,3,2,2016,2016
+452,3,1,Big Ten,9,4,2,5,2,14,19,2,8,49,99,2,5,Kory Barnett,12,Indiana,2,4,11,2012,2009
+453,0,1,WAC,9,5,5,16,0,2,18,2,3,7,44,2,6,Brayden Bell,12,Utah State,0,1,11,2008,2008
+454,4,0,Total,5,5,4,9,1,3,12,1,6,29,57,1,3,Matt Bennett,12,Valparaiso,3,5,6,2008,2007
+455,9,1,WCC,5,5,4,11,1,3,14,1,4,21,102,1,13,Marley Biyendolo,12,Pepperdine,5,12,6,2015,2015
+456,1,0,Ivy,3,4,2,3,2,5,8,2,4,10,23,0,0,Jackson Blaufeld,12,Dartmouth,0,1,3,2020,2020
+457,1,1,Big Ten,5,4,3,10,1,3,13,3,8,16,64,1,8,Tre Bowman,12,Penn State,1,5,6,2011,2011
+458,4,0,MVC,3,5,4,11,1,2,13,1,2,9,43,4,4,Aaron Brandt,12,Creighton,0,4,7,2008,2008
+459,1,0,Total,11,6,6,9,0,0,9,0,2,14,33,1,7,Wes Brewer,12,Elon,0,8,12,2016,2013
+460,2,0,Horizon,3,4,1,4,3,13,17,1,2,4,45,2,1,Sheldon Brogdon,12,Youngstown State,2,2,5,2011,2011
+461,0,0,Pac-10,7,5,5,16,0,0,16,2,7,15,38,4,8,Chris Brown,12,Oregon State,0,4,11,2011,2011
+462,2,1,Big 12,9,4,4,9,0,7,16,4,7,35,59,7,10,Chase Buford,12,Kansas,3,4,16,2010,2008
+463,11,0,Pac-10,23,4,4,22,0,4,26,4,9,37,290,20,48,Elliott Bullock,12,Stanford,11,14,43,2010,2009
+464,7,1,CAA,3,4,3,9,1,2,11,3,4,14,40,0,2,Chris Caliguiran,12,Towson,1,0,3,2020,2019
+465,4,1,SWAC,7,5,5,8,0,14,22,2,4,29,106,8,8,Khalid Campbell,12,Arkansas-Pine Bluff,0,4,15,2020,2017
+466,0,0,Big East,2,4,4,9,0,1,10,4,5,4,40,1,10,Zaronn Cann,12,South Florida,2,3,3,2007,2007
+467,2,2,Big 12,0,4,4,11,0,1,12,4,5,24,41,3,2,Marshall Carrell,12,Texas A&M,0,2,3,2011,2008
+468,3,2,Pac-12,11,4,4,13,0,1,14,4,15,16,92,7,13,Aaron Cheatum,12,Washington State,4,4,18,2015,2015
+469,2,0,Sun Belt,4,5,4,7,1,1,8,1,4,21,31,1,1,Matt Chism,12,Georgia State,2,2,5,2019,2018
+470,1,0,Horizon,2,4,0,3,4,15,18,0,0,11,45,1,4,Shawn Christian Jr.,12,Cleveland State,1,0,3,2018,2018
+471,1,0,A-Sun,1,4,2,2,2,7,9,2,5,11,21,1,0,Matthew Cioce,12,Stetson,1,3,2,2018,2017
+472,1,0,Big West,10,4,4,11,0,0,11,4,5,12,76,6,10,Spencer Clayton,12,UC-Davis,1,7,16,2013,2013
+473,2,0,Summit,2,4,3,5,1,2,7,3,3,7,25,0,6,Jordan Coblin,12,Purdue-Fort Wayne,1,2,2,2018,2018
+474,4,0,ACC,8,5,3,10,2,8,18,0,0,17,88,0,9,Chase Coleman,12,Virginia,5,7,8,2020,2020
+475,0,5,SEC,12,6,6,7,0,0,7,0,0,10,60,7,10,Courtese Cooper,12,Louisiana State,0,3,19,2020,2020
+476,0,0,MEAC,3,3,2,8,1,6,14,5,9,9,37,3,1,Thomas Cooper,12,North Carolina A&T,0,4,6,2011,2011
+477,3,3,WCC,7,4,4,21,0,0,21,4,5,21,109,10,22,Rafael Crescencio,12,San Diego,3,14,17,2010,2010
+478,2,0,MAAC,0,1,1,2,0,0,2,10,12,10,15,1,2,Nick Cunningham,12,Siena,1,2,1,2016,2016
+479,2,2,SEC,9,6,6,15,0,0,15,0,0,17,78,3,16,Carlos Curry,12,Mississippi,3,3,12,2020,2020
+480,3,0,NEC,11,4,2,5,2,13,18,2,2,14,93,0,10,Ayo Dada,12,Bryant,5,7,11,2020,2020
+481,0,0,SWAC,4,6,6,7,0,0,7,0,2,10,43,5,9,Bennett Davis,12,Mississippi Valley State,0,5,9,2016,2016
+482,4,3,AAC,6,5,3,4,2,6,10,0,1,18,73,0,16,Myles Davis,12,Central Florida,4,4,6,2015,2015
+483,1,5,Southern,18,4,4,8,0,0,8,4,8,24,85,6,8,Dino Dogan,12,Citadel,0,5,24,2008,2008
+484,1,0,MVC,3,6,6,14,0,0,14,0,2,9,27,3,6,Johannes Dolven,12,Drake,0,3,6,2017,2017
+485,3,0,Total,2,5,4,10,1,1,11,1,4,8,36,2,4,Gabriel Dos Santos,12,Total,0,5,4,2015,2013
+486,1,3,Big Ten,5,6,6,13,0,0,13,0,0,9,31,3,10,Emmanuel Dowuona,12,Purdue,2,2,8,2020,2020
+487,3,0,ACC,7,4,2,5,2,10,15,2,4,19,72,0,11,Brooks Doyle,12,Georgia Tech,0,3,7,2015,2013
+488,24,0,Pac-12,6,5,3,16,2,6,22,0,2,16,157,1,12,Trevor Dunbar,12,Washington State,4,17,7,2015,2015
+489,7,1,WAC,9,4,3,6,1,7,13,3,4,20,81,0,7,Drew Eisinger,12,Idaho,2,2,9,2009,2009
+490,1,2,ACC,1,5,4,7,1,2,9,1,3,29,40,3,2,Caleb Ellis,12,North Carolina,3,1,4,2020,2019
+491,2,1,MAC,4,5,4,10,1,7,17,1,2,12,29,2,3,Ali Farhat,12,Eastern Michigan,3,0,6,2014,2014
+492,0,0,MAAC,1,4,4,6,0,0,6,4,6,11,18,1,4,Mohamed Farih,12,Saint Peter's,0,6,2,2015,2012
+493,4,0,Ivy,5,4,0,4,4,21,25,0,0,12,105,8,11,Reed Farley,12,Harvard,4,4,13,2020,2018
+494,2,0,SEC,2,5,4,5,1,5,10,1,2,13,20,0,2,Andrew Fava,12,Florida,0,3,2,2019,2018
+495,0,1,CAA,4,5,5,23,0,0,23,2,4,28,113,5,14,Ben Felix,12,Northeastern,0,3,9,2011,2009
+496,0,0,OVC,4,6,6,13,0,0,13,0,0,13,63,1,20,Colin Ferguson,12,Southeast Missouri State,2,2,5,2013,2013
+497,0,1,CUSA,4,3,3,10,0,0,10,6,10,10,24,7,4,Phoenix Ford,12,Texas-San Antonio,0,2,11,2020,2020
+498,1,1,MAC,17,5,4,11,1,9,20,1,4,36,52,6,3,Sam Frayer,12,Ohio,0,4,23,2018,2015
+499,1,9,CUSA,19,6,6,15,0,0,15,0,4,19,142,10,44,Kelvin Gaines,12,North Texas,4,9,29,2014,2014
+500,4,0,Southern,3,5,3,7,2,6,13,0,0,3,44,0,2,Jackson Gammons,12,Citadel,0,2,3,2020,2020
+501,3,0,AEC,3,5,3,5,2,3,8,0,0,13,44,1,2,Kevin Garrison,12,Vermont,1,3,4,2020,2019
+502,0,0,Sun Belt,2,4,4,13,0,0,13,4,5,13,46,4,6,Andre Gowins,12,South Alabama,3,4,6,2012,2011
+503,0,0,WCC,3,4,0,1,4,7,8,0,0,13,27,1,2,Will Graves,12,Gonzaga,0,0,4,2020,2020
+504,2,0,Big South,0,4,4,6,0,0,6,4,5,3,15,2,3,Nick Greely,12,Campbell,1,1,2,2018,2018
+505,8,1,MAC,9,5,3,9,2,9,18,0,0,15,132,1,14,John Green,12,Ball State,5,10,10,2011,2010
+506,2,0,WCC,1,4,2,3,2,9,12,2,2,10,72,5,10,Shane Griffin,12,Pepperdine,2,2,6,2007,2007
+507,5,0,Southern,8,4,4,12,0,3,15,4,8,19,61,0,3,Jeremy Harper,12,Appalachian State,1,9,8,2007,2007
+508,1,1,Big West,5,4,1,4,3,7,11,1,2,21,70,2,12,Michael Harper,12,Hawaii,4,5,7,2014,2013
+509,6,1,MEAC,11,5,5,16,0,1,17,2,6,13,99,10,14,Javonni Harrell,12,Florida A&M,5,3,21,2018,2018
+510,4,0,NEC,16,4,3,14,1,5,19,3,4,20,76,7,15,William Harrison,12,Quinnipiac,0,5,23,2011,2011
+511,3,0,Big Sky,3,4,3,4,1,8,12,3,4,29,56,1,2,Chris Heine,12,Northern Arizona,4,8,4,2014,2012
+512,3,1,Big Ten,3,4,2,4,2,3,7,2,2,16,37,4,4,Brent Hibbitts,12,Michigan,0,3,7,2018,2017
+513,1,0,Big 12,0,3,0,0,3,7,7,3,4,10,26,1,2,Michael Jankovich,12,Kansas,1,3,1,2020,2020
+514,6,1,AEC,4,3,1,3,2,6,9,4,7,7,49,2,4,Bryce Johnson,12,New Hampshire,1,3,6,2020,2020
+515,3,3,WCC,9,4,4,7,0,0,7,4,11,22,101,3,30,Jake Johnson,12,Pepperdine,0,3,12,2016,2015
+516,0,4,MAAC,15,3,1,6,2,7,13,4,8,7,95,2,14,Kenjuan Johnson-Alls,12,Canisius,3,7,17,2019,2019
+517,2,0,MAC,3,3,3,9,0,3,12,6,8,12,31,2,2,Janeau Joubert,12,Central Michigan,2,0,5,2017,2017
+518,3,0,Big 12,2,4,0,0,4,11,11,0,0,18,53,0,3,Matt Karn,12,Nebraska,1,3,2,2011,2010
+519,4,0,ACC,8,4,0,4,4,8,12,0,0,28,54,3,4,Ryan Keenan,12,Wake Forest,0,3,11,2012,2010
+520,0,0,MAC,2,6,6,7,0,3,10,0,2,18,27,4,1,Michael Kemp,12,Central Michigan,1,0,6,2020,2019
+521,2,2,Sun Belt,12,6,6,7,0,0,7,0,2,17,49,4,11,Erkam Kiris,12,Texas-Arlington,0,1,16,2017,2017
+522,3,2,SEC,7,4,0,2,4,20,22,0,2,33,72,0,3,Mark Krebs,12,Kentucky,1,3,7,2010,2008
+523,1,5,Patriot,12,5,5,18,0,0,18,2,5,19,111,5,21,Jake Kreuser,12,Lafayette,4,10,17,2011,2011
+524,2,0,Big South,5,4,4,5,0,8,13,4,4,18,39,1,7,Garen Lafser,12,Liberty,0,1,6,2011,2008
+525,3,0,Total,11,6,6,14,0,0,14,0,0,27,75,6,21,Chandler Levingston Simon,12,Total,3,1,17,2017,2014
+526,2,3,Total,6,6,6,8,0,0,8,0,2,23,54,4,10,Aaron Liberman,12,Total,1,2,10,2015,2014
+527,0,0,MVC,1,3,2,6,1,7,13,5,9,18,42,2,3,Glorind Lisha,12,Loyola (IL),3,3,3,2017,2016
+528,3,34,Total,13,6,6,13,0,0,13,0,3,37,174,14,27,Papa Lo,12,Total,2,12,27,2011,2008
+529,2,0,Pac-10,1,5,3,10,2,5,15,0,0,17,67,1,6,Ben Loewen,12,Washington State,1,1,2,2011,2010
+530,4,3,Ivy,10,6,6,11,0,0,11,0,0,9,31,4,4,Max Lorca-Lloyd,12,Pennsylvania,0,4,14,2020,2020
+531,0,0,SEC,7,4,3,7,1,4,11,3,4,39,51,1,7,Taylor Luczak,12,Mississippi State,1,7,8,2012,2009
+532,3,1,Big 12,3,5,3,3,2,5,8,0,4,13,44,1,1,Luke Major,12,Oklahoma State,0,1,4,2019,2019
+533,1,1,ACC,3,5,3,9,2,8,17,0,0,20,30,2,2,James Manor,12,North Carolina,1,0,5,2014,2013
+534,6,14,A-10,18,5,5,12,0,1,13,2,3,23,112,7,25,Derrick Martin,12,Duquesne,5,9,25,2013,2012
+535,1,1,Summit,,5,5,10,0,2,12,2,2,3,,,,Marcus Martin,12,Centenary (LA),1,5,13,2008,2008
+536,1,0,Summit,10,3,0,3,3,13,16,3,4,9,33,0,4,Jamie Mauch,12,North Dakota State,1,2,10,2013,2013
+537,4,1,ACC,10,5,3,9,2,9,18,0,2,20,72,3,6,Jason McAlpin,12,Maryland,1,2,13,2008,2007
+538,0,0,SWAC,1,4,1,5,3,12,17,1,2,12,30,0,2,Ashton McClelland,12,Texas Southern,2,1,1,2020,2020
+539,2,5,SWAC,19,3,3,13,0,0,13,6,14,22,128,17,18,Christian McCoggle,12,Texas Southern,1,3,36,2016,2014
+540,8,1,Pac-10,5,4,3,13,1,8,21,3,4,25,118,7,14,Joey McConnell,12,Oregon State,7,5,12,2009,2007
+541,13,0,CAA,21,4,0,2,4,18,20,0,0,44,249,0,28,Curtis McRoy,12,Delaware,8,7,21,2017,2015
+542,4,0,A-Sun,9,4,2,12,2,4,16,2,3,9,77,1,8,Bobby Miller,12,Kennesaw State,2,8,10,2020,2020
+543,0,2,OVC,3,4,4,7,0,0,7,4,6,3,16,5,5,Demarcus Mitchell,12,Tennessee State,0,1,8,2019,2019
+544,2,0,Southern,1,5,3,5,2,4,9,0,0,10,25,0,4,Jelani Mofford,12,North Carolina-Greensboro,2,1,1,2017,2016
+545,1,1,Sun Belt,3,5,5,12,0,0,12,2,5,16,28,2,1,Whit Moreman,12,Troy,0,2,5,2018,2017
+546,9,2,Southland,7,5,5,16,0,0,16,2,6,15,121,7,9,Durand Murray,12,Lamar,2,7,14,2007,2007
+547,0,0,CUSA,3,2,0,0,2,7,7,6,8,8,18,0,1,JJ Murray,12,North Texas,3,2,3,2020,2020
+548,4,0,AEC,4,5,3,4,2,22,26,0,0,20,109,5,4,Joe Nardi,12,Hartford,2,2,9,2011,2011
+549,3,4,MWC,18,2,2,7,0,2,9,8,10,48,188,10,24,Jake Ness,12,Boise State,5,5,28,2015,2013
+550,1,0,ACC,2,2,0,3,2,7,10,6,6,15,55,1,3,Josh Nickelberry,12,Louisville,0,1,3,2020,2020
+551,7,0,WCC,2,4,3,5,1,2,7,3,6,18,60,0,5,Blaze Nield,12,Brigham Young,0,1,2,2020,2020
+552,2,0,WAC,4,3,1,3,2,6,9,4,4,13,51,0,1,Daniel Nyman,12,Utah Valley,2,2,4,2018,2018
+553,5,0,Ivy,10,3,2,8,1,2,10,5,9,20,57,3,14,Nathaniel Ogbu,12,Dartmouth,1,2,13,2020,2020
+554,0,0,Ind,6,5,5,9,0,0,9,2,3,13,52,5,9,Justin Omogun,12,Cal State Bakersfield,0,2,11,2013,2013
+555,1,0,Sun Belt,0,4,2,3,2,7,10,2,2,10,23,0,3,Tracy Parks,12,South Alabama,0,3,0,2009,2009
+556,1,1,MWC,7,6,6,8,0,0,8,0,1,9,27,1,1,Jerrod Patton,12,Fresno State,1,2,8,2015,2015
+557,0,8,Pac-12,7,4,4,6,0,0,6,4,7,11,49,2,12,Bryan Penn-Johnson,12,Washington,0,2,9,2020,2019
+558,1,0,Sun Belt,1,5,4,8,1,2,10,1,3,20,40,0,5,Alex Pickert,12,Denver,2,5,1,2012,2010
+559,6,1,MAC,4,3,3,11,0,9,20,6,8,28,50,0,9,Christian Pino,12,Buffalo,2,8,4,2017,2015
+560,1,1,Horizon,9,5,4,8,1,5,13,1,2,13,64,4,14,Aleksa Popovic,12,Cleveland State,0,5,13,2019,2019
+561,7,0,WAC,3,4,0,2,4,10,12,0,0,15,150,2,13,A.J. Price,12,Texas-San Antonio,3,17,5,2013,2013
+562,0,0,MVC,2,5,5,6,0,0,6,2,5,9,23,3,3,Robert Puleikis,12,Drake,1,0,5,2014,2013
+563,0,0,MAAC,6,4,0,1,4,8,9,0,0,10,38,0,6,Sam Rautins,12,Canisius,1,1,6,2020,2019
+564,2,1,ACC,5,6,6,12,0,2,14,0,0,24,41,2,5,Peter Rehnquist,12,Boston College,0,4,7,2012,2010
+565,6,0,CAA,9,3,3,7,0,6,13,6,6,16,63,2,14,Scott Renkin,12,James Madison,4,3,11,2009,2009
+566,2,0,ACC,10,5,4,8,1,3,11,1,3,23,31,2,2,Troy Rike,12,Wake Forest,0,2,12,2018,2015
+567,2,0,WAC,2,4,3,12,1,7,19,3,3,8,57,4,3,Juan Ramon Rivas,12,Missouri-Kansas City,2,4,6,2015,2015
+568,14,0,Southland,12,4,2,9,2,20,29,2,8,20,120,0,6,Brandon Roberson,12,Texas A&M-Corpus Christi,7,6,12,2007,2007
+569,2,0,GWC,3,4,0,2,4,9,11,0,0,9,17,0,1,KC Rodenburg,12,South Dakota,0,1,3,2011,2011
+570,3,1,Horizon,5,4,0,1,4,8,9,0,0,31,46,0,6,Nick Rodgers,12,Butler,2,4,5,2010,2007
+571,0,0,CUSA,3,5,5,10,0,0,10,2,4,14,50,2,11,Christian Romine,12,Texas-El Paso,0,8,5,2016,2016
+572,0,0,NEC,3,4,2,7,2,2,9,2,2,11,37,5,5,Seth Rouse,12,Robert Morris,1,0,8,2018,2016
+573,2,0,CUSA,1,5,5,10,0,2,12,2,2,15,19,0,1,Evan Salzano,12,East Carolina,0,3,1,2011,2010
+574,3,0,CUSA,11,4,4,10,0,4,14,4,10,16,82,4,12,Terrell Scruggs,12,Texas-San Antonio,4,11,15,2017,2016
+575,4,0,MVC,3,5,5,9,0,0,9,2,6,25,51,4,6,Derek Sebastian,12,Creighton,1,3,7,2012,2010
+576,0,0,CAA,3,3,3,6,0,0,6,6,9,11,53,3,8,Rob Sikes,12,North Carolina-Wilmington,0,2,6,2008,2008
+577,2,0,Horizon,1,3,2,6,1,4,10,5,6,17,34,2,3,Ben Slaton,12,Butler,1,3,3,2008,2007
+578,8,0,MWC,2,4,1,4,3,8,12,1,4,18,55,0,11,Tre Smith,12,Utah,2,4,2,2010,2008
+579,5,0,Big West,4,3,0,4,3,20,24,3,4,14,84,0,8,Alex Sokol,12,Cal State Northridge,2,3,4,2019,2018
+580,4,4,A-Sun,6,3,3,9,0,0,9,6,8,12,63,3,16,Josh Sparks,12,Jacksonville,4,7,9,2010,2010
+581,8,1,WCC,13,3,2,13,1,13,26,5,8,15,98,9,6,Nikola Stojiljkovic,12,San Francisco,2,7,22,2010,2010
+582,1,0,MEAC,1,4,4,7,0,0,7,4,7,17,45,3,9,Elafayette Stone,12,South Carolina State,0,2,4,2020,2020
+583,1,2,Total,4,5,3,4,2,7,11,0,0,10,31,1,3,D.J. Suter,12,Georgia Southern,0,0,5,2016,2014
+584,5,0,SEC,2,5,3,6,2,7,13,0,0,17,46,1,4,Brett Swanson,12,Florida,0,4,3,2007,2007
+585,0,0,WAC,0,4,0,5,4,8,13,0,0,8,18,1,4,Cheick Sy-Savane,12,Grand Canyon,0,1,1,2018,2017
+586,3,0,CUSA,7,4,1,4,3,12,16,1,2,22,62,2,8,Jeremiah Taylor,12,Louisiana Tech,1,2,9,2018,2017
+587,12,4,Big South,7,5,5,9,0,5,14,2,8,27,127,2,16,Larry Taylor,12,Liberty,6,15,9,2013,2013
+588,1,3,MAAC,11,4,4,16,0,0,16,4,5,21,112,4,20,Denzel Tchougang,12,Siena,1,8,15,2020,2019
+589,22,0,Big Sky,9,5,4,19,1,6,25,1,6,37,198,2,28,Drake Thomas,12,Southern Utah,2,14,11,2014,2013
+590,5,1,Big East,8,6,6,10,0,3,13,0,3,23,80,2,8,Justin Thomas,12,Syracuse,3,7,10,2009,2007
+591,6,3,Big East,8,4,4,13,0,1,14,4,7,36,107,6,19,Will Thomas,12,West Virginia,3,13,14,2009,2008
+592,0,15,Sun Belt,21,6,6,10,0,0,10,0,2,16,160,9,30,Dadou Traore,12,Louisiana-Monroe,0,3,30,2020,2020
+593,0,0,Sun Belt,2,5,3,5,2,10,15,0,0,14,41,0,2,Jalen Tuck,12,Troy,1,2,2,2020,2019
+594,0,1,Big South,2,6,6,10,0,1,11,0,6,7,40,4,4,Donell Tuff,12,Gardner-Webb,0,1,6,2014,2014
+595,2,3,SEC,11,6,6,14,0,1,15,0,0,12,73,4,3,Ran Tut,12,South Carolina,3,1,15,2017,2017
+596,1,0,NEC,4,3,0,5,3,7,12,3,8,6,31,0,4,Javen Udofia,12,Central Connecticut State,0,3,4,2020,2020
+597,0,2,Total,8,4,4,9,0,0,9,4,7,20,65,5,7,Mike VanKirk,12,San Jose State,3,3,13,2014,2013
+598,0,0,A-10,3,4,0,3,4,5,8,0,0,4,14,1,1,Tomas Verbinskis,12,Richmond,0,1,4,2020,2019
+599,0,1,Big Ten,4,6,6,8,0,0,8,0,5,18,34,2,1,Sergej Vucetic,12,Nebraska,0,0,6,2014,2013
+600,4,0,NEC,2,5,3,4,2,9,13,0,0,7,37,0,1,Tom Ward,12,St. Francis (NY),1,1,2,2009,2009
+601,2,0,Southern,3,4,2,5,2,4,9,2,4,4,20,0,4,Aaron Washington,12,Citadel,2,1,3,2017,2017
+602,1,0,SWAC,2,4,3,11,1,12,23,3,4,14,46,4,4,Dion Watson,12,Grambling,2,1,6,2014,2014
+603,0,0,AEC,5,4,4,12,0,5,17,4,8,2,54,3,3,Sean Watson,12,Binghamton,4,2,8,2009,2009
+604,1,0,MWC,6,5,3,3,2,6,9,0,2,13,30,2,1,Blake Williams,12,Fresno State,0,3,8,2014,2014
+605,1,2,MWC,10,5,5,14,0,0,14,2,6,17,103,7,17,Trevor Williams,12,Colorado State,0,8,17,2013,2011
+606,0,0,Big Ten,3,4,2,4,2,2,6,2,2,17,26,0,2,J.D. Wise,12,Wisconsin,1,3,3,2013,2010
+607,1,8,AAC,15,4,4,9,0,0,9,4,8,22,92,6,13,Jahmar Young Jr.,12,Southern Methodist,2,7,21,2019,2019
+608,1,0,WAC,7,3,3,7,0,0,7,6,8,10,24,1,1,Tyler Young,12,Boise State,0,1,8,2010,2010
+609,2,4,MVC,10,5,5,11,0,1,12,2,10,22,78,4,8,Stefan Zecevic,12,Bradley,0,8,14,2014,2014
+610,3,1,Big 12,2,5,4,6,1,2,8,1,4,16,65,2,13,Andrew Zehnder,12,Colorado,1,2,4,2009,2008
+611,3,1,Total,9,3,2,10,1,1,11,4,5,18,70,5,12,Chier Ajou,11,Total,1,4,14,2015,2013
+612,6,2,Pac-10,5,3,0,10,3,8,18,2,2,8,76,3,1,Josh Akwenuke,11,Oregon,6,7,8,2007,2007
+613,1,2,WAC,7,3,3,14,0,1,15,5,6,11,63,1,8,Clint Amberry,11,San Jose State,1,2,8,2009,2009
+614,3,1,Southland,4,3,2,4,1,2,6,4,6,7,21,2,2,Evan Anderson,11,Houston Baptist,0,4,6,2016,2016
+615,0,0,Pac-10,3,2,0,0,2,5,5,5,6,20,35,0,2,Blake Arnet,11,UCLA,0,3,3,2011,2009
+616,0,0,Southern,1,4,2,3,2,3,6,1,2,7,13,1,5,Matt Ashe,11,Georgia Southern,1,0,2,2007,2007
+617,3,0,Southern,11,3,2,7,1,5,12,4,7,14,46,1,2,K.J. Bates,11,Chattanooga,5,3,12,2016,2015
+618,2,1,Patriot,5,5,4,4,1,9,13,0,0,15,55,2,9,Hugh Baxter,11,Colgate,1,5,7,2019,2018
+619,0,0,CUSA,1,4,1,2,3,4,6,0,0,5,11,1,1,Keith Benford,11,Texas-San Antonio,0,0,2,2014,2014
+620,0,4,MAC,8,4,4,10,0,0,10,3,7,17,48,2,10,Kalin Bennett,11,Kent State,0,3,10,2020,2020
+621,3,0,Big Ten,4,1,1,1,0,0,1,9,12,28,33,1,8,Kevin Berardini,11,Illinois,1,3,5,2013,2011
+622,0,3,Pac-10,2,5,5,7,0,0,7,1,5,14,37,2,4,Steven Bjornstad,11,Washington State,0,4,4,2011,2010
+623,6,2,Big Ten,4,4,4,9,0,2,11,3,4,9,56,6,6,Benjamin Bosmans-Verdonk,11,Illinois,3,5,10,2020,2020
+624,2,0,Southland,11,3,2,7,1,4,11,4,5,16,55,2,8,Jamell Bradley,11,Texas A&M-Corpus Christi,1,2,13,2018,2017
+625,9,1,Southern,13,4,4,12,0,4,16,3,7,29,169,5,17,Jeb Brannen,11,Georgia Southern,8,10,18,2010,2009
+626,2,0,WCC,10,3,1,3,2,16,19,3,4,21,138,5,22,Pierce Brooks,11,San Francisco,2,3,15,2008,2008
+627,0,0,Southland,0,3,0,3,3,6,9,2,2,5,15,0,1,Cannon Broussard,11,Lamar,1,1,0,2018,2018
+628,0,12,CAA,6,3,3,10,0,0,10,5,10,12,52,8,13,Alvin Brown,11,James Madison,0,2,14,2010,2010
+629,1,1,Southern,4,3,3,4,0,0,4,5,7,13,37,3,3,Mac Brydon,11,Mercer,0,1,7,2018,2018
+630,2,0,WAC,5,5,5,7,0,0,7,1,4,12,48,5,11,Jose Campo,11,New Mexico State,1,3,10,2016,2016
+631,9,0,MEAC,7,2,2,11,0,8,19,7,10,5,66,2,11,Jaekwon Carliyle,11,Hampton,6,9,9,2018,2018
+632,2,0,MAAC,4,3,2,6,1,4,10,4,8,15,35,1,3,Brandon Channer,11,Rider,0,5,5,2014,2014
+633,4,0,Big Ten,3,4,2,3,2,17,20,1,2,26,34,0,2,Bubba Chisholm,11,Illinois,4,2,3,2010,2009
+634,3,2,Big Ten,26,5,5,21,0,0,21,1,6,46,177,16,21,Colton Christian,11,Michigan,2,11,42,2012,2011
+635,14,0,MEAC,8,4,3,7,1,7,14,2,7,16,95,5,8,Jamelle Christian,11,Delaware State,5,9,13,2017,2015
+636,0,4,MAAC,6,3,3,10,0,0,10,5,6,20,64,9,13,Adam Cisse,11,Manhattan,4,2,15,2020,2020
+637,0,1,Big South,5,5,5,8,0,0,8,1,5,8,30,5,3,Matthew Citron,11,Presbyterian,0,5,10,2013,2013
+638,2,0,ACC,8,3,3,6,0,2,8,5,5,34,45,3,8,Kanler Coker,11,North Carolina,1,3,11,2017,2016
+639,8,0,Big Sky,10,5,4,8,1,6,14,0,1,12,61,1,10,Riley Court,11,Weber State,2,4,11,2018,2018
+640,1,0,Pac-12,1,5,4,6,1,1,7,0,0,15,21,5,1,Jason Crandall,11,Washington,4,0,6,2020,2018
+641,0,2,Big Ten,7,3,3,7,0,0,7,5,8,7,26,3,3,Ben Cronin,11,Michigan,0,2,10,2010,2009
+642,6,0,MEAC,11,4,3,8,1,13,21,2,2,18,68,1,12,Omar Croskey,11,South Carolina State,0,2,12,2020,2020
+643,2,0,MAAC,5,3,2,4,1,3,7,4,7,23,27,0,3,Steven Cruz,11,Siena,0,7,5,2014,2011
+644,2,0,Southland,8,5,5,8,0,4,12,1,2,17,54,0,5,Xavier Dade,11,Texas State,1,3,8,2012,2012
+645,3,0,Big West,2,3,2,9,1,3,12,4,6,10,16,3,1,Teo Davidian,11,UC-Irvine,1,1,5,2018,2018
+646,1,0,MEAC,2,4,2,10,2,5,15,1,2,8,62,1,7,Jarrod Davis,11,Maryland-Eastern Shore,2,9,3,2013,2013
+647,3,0,Big South,4,4,3,9,1,13,22,2,6,25,62,2,5,Madison Davis,11,North Carolina-Asheville,5,4,6,2012,2010
+648,2,1,Pac-12,7,2,2,10,0,0,10,7,14,17,42,4,11,Jake Desjardins,11,Arizona,2,3,11,2019,2017
+649,7,0,WAC,0,3,3,5,0,1,6,5,10,17,69,2,11,Jeremiah Dickerson,11,Cal State Bakersfield,4,2,2,2019,2019
+650,1,0,Big 12,3,4,4,6,0,1,7,3,4,17,40,6,4,Alex Dorr,11,Iowa State,0,2,9,2010,2010
+651,0,3,MVC,4,3,1,6,2,5,11,3,6,28,53,4,9,Matt Dorwart,11,Creighton,1,4,8,2012,2010
+652,1,0,Big Ten,3,3,0,2,3,6,8,2,2,18,35,2,0,Joey Downes,11,Rutgers,3,1,5,2020,2017
+653,6,1,Summit,7,3,3,15,0,6,21,5,8,10,81,0,9,Elishja Duplechan,11,Omaha,2,5,7,2019,2019
+654,2,1,MEAC,4,4,4,8,0,0,8,3,6,27,78,3,9,Chad Easterling,11,Hampton,2,5,7,2008,2007
+655,4,0,MWC,6,4,4,11,0,5,16,3,7,16,76,4,10,Narbeh Ebrahimian,11,San Diego State,2,0,10,2013,2012
+656,3,1,Total,17,4,4,8,0,0,8,3,9,11,45,1,6,Keith Edwards,11,Savannah State,5,7,18,2012,2011
+657,2,3,Big West,3,3,2,5,1,7,12,4,7,18,82,5,13,Ben Eisenhardt,11,Cal Poly,1,0,8,2011,2011
+658,2,3,Horizon,4,4,3,10,1,4,14,2,2,27,68,4,8,Elliot Engelmann,11,Butler,0,0,8,2008,2007
+659,2,2,MAC,8,4,1,2,3,8,10,0,0,10,59,0,1,Craig Eubanks,11,Akron,0,5,8,2018,2017
+660,2,0,Southern,,4,1,4,3,11,15,0,2,18,,,,John Falconi,11,Davidson,1,,7,2007,2007
+661,2,0,Big East,7,3,0,0,3,10,10,2,5,42,73,1,5,Patrick Farrell,11,Villanova,3,4,8,2016,2013
+662,0,1,A-10,5,4,1,3,3,6,9,0,2,11,32,2,1,Jared Fay,11,Fordham,0,2,7,2014,2013
+663,4,0,ACC,5,5,5,9,0,10,19,1,4,30,72,3,7,Carson Fields,11,Clemson,2,3,8,2014,2012
+664,5,0,MEAC,10,4,2,13,2,13,26,1,3,11,67,4,5,Bryce Fluellen,11,Howard,4,3,14,2011,2011
+665,1,1,MVC,12,4,4,9,0,0,9,3,5,13,67,4,13,Abdul Fofana,11,Missouri State,4,5,16,2018,2018
+666,1,0,Big Ten,5,2,2,8,0,0,8,7,9,8,30,6,5,Sam Freeman,11,Minnesota,2,3,11,2020,2020
+667,3,0,Pac-12,3,3,2,4,1,2,6,4,6,16,45,2,5,Theo Friedman,11,Oregon,1,2,5,2015,2014
+668,1,10,Total,13,3,3,8,0,0,8,5,8,21,115,4,26,Arthur Gage,11,Chicago State,3,5,17,2014,2013
+669,1,1,MEAC,2,4,4,16,0,7,23,3,4,15,52,2,6,Jamal Gaines,11,Bethune-Cookman,1,4,4,2018,2017
+670,3,0,CAA,16,2,2,7,0,0,7,7,15,37,117,10,43,Pau Geli,11,Delaware,4,12,26,2009,2007
+671,4,0,GWC,7,2,2,15,0,3,18,7,8,16,80,2,5,Josh Gentry,11,North Dakota,3,5,9,2012,2012
+672,4,1,Ivy,5,3,1,2,2,4,6,3,7,20,43,1,4,Joe Gill,11,Pennsylvania,1,3,6,2008,2007
+673,1,1,A-10,2,4,2,4,2,5,9,1,6,15,26,0,2,Jake Godino,11,Temple,1,2,2,2012,2010
+674,3,0,WAC,7,3,1,1,2,8,9,3,4,7,57,0,6,Da'Shawn Gomez,11,New Mexico State,2,7,7,2010,2010
+675,5,1,SEC,4,5,4,10,1,12,22,0,0,25,92,0,4,Dillon Graham,11,Florida,2,4,4,2015,2013
+676,4,0,MEAC,5,4,3,9,1,11,20,2,2,11,57,2,5,Winston Graham,11,Norfolk State,2,6,7,2012,2012
+677,2,8,SEC,25,3,3,14,0,0,14,5,10,45,296,13,57,Khadim Gueye,11,South Carolina,4,15,38,2018,2017
+678,4,1,A-10,2,3,3,7,0,2,9,5,12,37,69,4,10,Ryan Hage,11,Fordham,1,8,6,2012,2009
+679,1,0,Southland,1,4,1,1,3,3,4,0,0,12,23,1,4,Daren Hankins,11,Southeastern Louisiana,0,2,2,2009,2008
+680,1,3,Southern,4,5,5,16,0,2,18,1,2,19,81,9,19,P.L. Henderson,11,Appalachian State,6,9,13,2007,2007
+681,0,0,SWAC,5,4,1,1,3,8,9,0,0,6,18,0,2,Dearius Henyard,11,Grambling,0,0,5,2020,2020
+682,1,0,Big Ten,1,3,1,3,2,13,16,3,5,23,40,0,5,Chris Hicks,11,Illinois,2,4,1,2008,2007
+683,4,0,OVC,1,3,1,4,2,5,9,3,9,13,27,1,4,Zach Hopewell,11,Murray State,0,2,2,2018,2018
+684,3,0,Big 12,1,4,3,3,1,8,11,2,5,15,35,1,5,Tyrone Hughes,11,West Virginia,1,3,2,2015,2014
+685,0,1,Big 12,7,2,1,7,1,7,14,6,10,28,62,6,21,Richard Hurd,11,Baylor,2,4,13,2008,2007
+686,0,1,WAC,3,4,1,1,3,6,7,0,2,6,14,0,0,Collin Huun,11,Seattle,0,1,3,2018,2018
+687,1,1,Big 12,5,5,5,9,0,1,10,1,5,15,46,5,1,James Inge,11,Colorado,3,4,10,2007,2007
+688,0,5,MAAC,7,4,4,15,0,0,15,3,5,32,92,7,10,Paolo Ivis,11,Loyola (MD),1,1,14,2011,2010
+689,7,0,MEAC,3,5,5,10,0,4,14,1,2,16,70,3,7,Justin Jackson,11,Morgan State,3,4,6,2011,2011
+690,4,1,WCC,7,4,3,11,1,7,18,2,3,4,41,1,8,Nino Jackson,11,Loyola Marymount,4,3,8,2014,2014
+691,5,0,MAC,7,4,2,7,2,15,22,1,3,14,67,2,9,Torey James,11,Ohio,1,4,9,2019,2019
+692,0,1,Ind,2,3,0,2,3,13,15,2,6,5,41,1,4,Terry Jenkins,11,Purdue-Fort Wayne,3,0,3,2007,2007
+693,5,0,Big East,5,2,2,7,0,3,10,7,9,20,73,1,9,Shayle Keating,11,Rutgers,3,5,6,2007,2007
+694,0,0,CUSA,6,2,0,2,2,4,6,5,8,24,59,0,5,Max Keenan,11,Tulane,1,6,6,2014,2013
+695,1,0,CAA,3,4,1,2,3,18,20,0,1,13,67,1,7,Stephen Kendall,11,James Madison,1,2,4,2008,2008
+696,0,0,SWAC,2,4,1,8,3,9,17,0,0,3,40,0,6,Kimani Key,11,Alabama State,2,3,2,2013,2013
+697,0,0,ACC,8,5,4,10,1,3,13,0,0,43,77,4,5,Caid Kirven,11,Virginia,0,6,12,2016,2013
+698,4,0,Southland,8,3,3,8,0,4,12,5,11,21,75,2,22,Didier Kollo,11,Texas State,2,10,10,2007,2007
+699,1,0,NEC,2,2,2,6,0,0,6,7,11,7,43,5,12,Etienne Labrecque,11,Quinnipiac,2,2,7,2007,2007
+700,3,1,NEC,3,4,4,8,0,7,15,3,4,20,58,2,3,A.J. Labriola,11,Saint Francis (PA),1,1,5,2020,2019
+701,0,0,NEC,1,3,1,7,2,7,14,3,6,19,32,1,5,Mark LaPorte,11,Central Connecticut State,0,1,2,2012,2011
+702,0,0,Total,4,4,3,12,1,8,20,2,7,24,61,2,5,Malcolm Laws,11,Total,2,2,6,2018,2015
+703,6,1,Big Ten,2,4,2,6,2,3,9,1,6,25,56,0,8,Will Leiner,11,Penn State,3,4,2,2009,2007
+704,3,0,MWC,2,3,1,2,2,5,7,3,4,7,24,3,1,Brendan Leonard,11,Air Force,0,2,5,2017,2015
+705,0,2,SWAC,7,5,5,19,0,0,19,1,4,14,60,7,13,Nicholas Livisay,11,Arkansas-Pine Bluff,0,1,14,2009,2009
+706,7,0,Mid-Cont,7,4,1,1,3,14,15,0,0,16,100,0,7,Keith MacKenzie,11,Oakland,1,9,7,2007,2007
+707,4,0,OVC,7,5,5,5,0,2,7,1,3,18,78,2,5,Donnie Malone,11,Tennessee State,3,3,9,2020,2020
+708,0,1,Patriot,10,2,2,4,0,6,10,7,7,12,44,3,4,Connor Mannion,11,Navy,0,2,13,2019,2018
+709,2,0,Southland,4,4,3,4,1,7,11,2,2,28,50,3,3,Jason Martin,11,Stephen F. Austin,0,3,7,2015,2014
+710,2,0,CUSA,2,2,2,6,0,1,7,7,10,12,36,0,2,Victor Mbachu,11,Texas-El Paso,1,2,2,2016,2014
+711,2,0,Southland,14,4,4,15,0,0,15,3,4,16,64,7,11,Lamine Mbodj,11,New Orleans,0,4,21,2016,2016
+712,3,0,Big West,5,3,3,7,0,3,10,5,9,11,44,0,6,Colin McCarthy,11,Cal Poly,0,2,5,2020,2020
+713,2,0,CUSA,3,4,4,4,0,0,4,3,9,5,30,2,0,Carrington McCaskill,11,Florida Atlantic,2,1,5,2020,2020
+714,6,0,Big East,2,4,2,4,2,7,11,1,2,19,65,0,6,Mike McCloskey,11,South Florida,3,5,2,2013,2012
+715,6,1,OVC,13,4,4,9,0,2,11,3,8,17,104,5,10,Devante McClung,11,Tennessee State,4,10,18,2013,2013
+716,2,0,ACC,1,4,2,2,2,12,14,1,2,20,39,1,4,Riley McGillan,11,Clemson,2,2,2,2017,2015
+717,1,0,SEC,7,3,1,3,2,7,10,3,4,17,23,0,3,Phillip McGloin,11,Vanderbilt,0,3,7,2017,2015
+718,1,0,AEC,7,5,5,12,0,0,12,1,3,26,38,3,3,Ryan McKeaney,11,Vermont,0,1,10,2012,2011
+719,6,1,A-Sun,5,3,0,3,3,15,18,2,2,9,82,0,10,Corey Mendez,11,Stetson,0,8,5,2015,2015
+720,2,0,Big 12,3,4,4,11,0,1,12,3,11,37,43,3,7,Shawn Meyer,11,Kansas State,1,3,6,2015,2012
+721,2,0,WAC,5,4,4,4,0,1,5,3,5,14,32,2,7,Kortrijk Miles,11,New Mexico State,0,4,7,2018,2018
+722,4,0,Summit,3,4,1,2,3,12,14,0,0,20,69,2,8,Hayden Miller,11,Omaha,1,5,5,2020,2019
+723,1,0,NEC,1,3,1,3,2,5,8,3,3,4,12,1,1,Ryan Miller,11,Merrimack,0,0,2,2020,2020
+724,25,0,Southland,6,4,4,10,0,6,16,3,4,5,91,2,11,Rashad Mintz,11,Texas A&M-Corpus Christi,1,11,8,2007,2007
+725,1,0,MVC,6,4,3,10,1,2,12,2,6,25,93,1,2,Julius Moor,11,Illinois State,5,8,7,2008,2007
+726,4,1,MAC,3,5,5,9,0,0,9,1,2,8,27,4,2,Donavan Moore,11,Toledo,0,2,7,2020,2020
+727,2,0,Southern,1,4,1,2,3,10,12,0,0,10,36,1,7,Stetson Moore,11,East Tennessee State,2,0,2,2016,2016
+728,1,0,OVC,4,4,1,3,3,11,14,0,0,17,90,2,5,Evan Morrison,11,Southeast Missouri State,2,1,6,2020,2020
+729,2,0,Pac-12,7,2,2,11,0,2,13,7,13,21,87,0,15,Alex Mortensen,11,Utah,3,13,7,2013,2012
+730,2,1,CUSA,10,4,3,8,1,5,13,2,7,17,75,6,10,Yan Moukoury,11,Houston,4,2,16,2009,2008
+731,9,0,MAC,9,4,3,18,1,3,21,2,4,15,83,3,6,Jorddan Myrick,11,Central Michigan,1,8,12,2012,2012
+732,1,3,SWAC,4,3,3,10,0,0,10,5,10,9,54,6,6,Devonte' Neal,11,Alabama State,0,1,10,2014,2013
+733,2,2,MWC,6,3,2,6,1,8,14,4,6,10,28,1,1,Joey Nebeker,11,Boise State,1,4,7,2014,2014
+734,8,0,Ivy,3,3,3,8,0,3,11,5,9,38,126,1,14,Alex Nesbitt,11,Harvard,2,5,4,2015,2012
+735,2,2,Summit,9,4,4,9,0,1,10,3,7,20,88,4,28,Matt Nichenko,11,Centenary (LA),0,9,13,2011,2010
+736,6,0,Big Ten,10,4,2,5,2,8,13,1,3,23,110,5,17,Harrison Niego,11,Indiana,7,4,15,2016,2016
+737,0,3,NEC,3,5,4,6,1,5,11,0,2,17,42,4,6,Milos Nikolic,11,Long Island University,1,2,7,2011,2010
+738,2,1,Big Sky,4,5,4,10,1,4,14,0,0,4,42,1,5,David Norris,11,Sacramento State,3,1,5,2010,2010
+739,1,0,MAAC,3,4,3,9,1,8,17,2,2,13,41,3,3,Jamal Nwaniemeka,11,Rider,1,0,6,2013,2013
+740,0,1,ACC,8,4,3,8,1,8,16,2,3,29,76,2,5,Grant O'Brien,11,Wake Forest,0,0,10,2016,2013
+741,0,0,Southern,6,4,4,11,0,3,14,3,6,11,42,6,7,Prosper Obidiebube,11,Chattanooga,2,5,12,2020,2020
+742,2,4,Ivy,9,4,3,9,1,1,10,2,4,8,59,3,11,Alex Okafor,11,Princeton,0,10,12,2008,2008
+743,0,4,MEAC,6,5,5,5,0,0,5,1,2,9,26,2,9,Andrew Okorodudu,11,Savannah State,1,4,8,2019,2019
+744,0,0,Big Sky,6,4,4,8,0,0,8,3,3,8,28,3,4,Ryan Okwudibonye,11,Sacramento State,1,4,9,2014,2013
+745,4,1,MAC,4,5,4,9,1,3,12,0,0,17,53,3,9,C.J. Oldham,11,Akron,1,5,7,2012,2011
+746,3,0,Ivy,2,4,2,4,2,5,9,1,1,7,33,1,5,Andrew Panayiotou,11,Columbia,2,4,3,2017,2017
+747,0,0,SEC,1,4,3,9,1,5,14,2,4,16,30,0,6,Myles Parker,11,Auburn,1,4,1,2020,2019
+748,3,1,Big Sky,7,3,0,0,3,7,7,2,4,11,39,1,6,Devon Pekas,11,North Dakota,1,2,8,2017,2017
+749,4,0,A-Sun,1,3,0,1,3,4,5,2,2,15,14,0,1,Jonathan Perry,11,Campbell,0,1,1,2009,2008
+750,0,2,WCC,9,4,4,5,0,0,5,3,13,6,23,2,5,Andy Poling,11,Gonzaga,0,2,11,2010,2010
+751,2,5,Horizon,15,4,4,18,0,0,18,3,4,19,125,10,13,Kyle Pressley,11,Wright State,2,7,25,2009,2009
+752,0,0,SWAC,4,4,4,13,0,0,13,3,9,10,63,7,7,TeAllen Price,11,Texas Southern,2,6,11,2010,2009
+753,1,0,Southern,1,5,4,7,1,2,9,0,0,4,16,2,2,Domnique Quarles,11,Western Carolina,2,0,3,2009,2009
+754,1,0,Ivy,2,3,3,3,0,1,4,5,6,18,36,2,6,Paddy Quinn,11,Columbia,1,1,4,2015,2013
+755,0,2,CAA,10,4,4,8,0,2,10,3,4,18,48,4,0,Duje Radja,11,Elon,1,2,14,2020,2018
+756,0,1,MAC,4,5,4,4,1,7,11,0,0,5,44,0,3,Andre Rafus Jr.,11,Eastern Michigan,1,3,4,2019,2019
+757,3,0,Total,7,4,4,13,0,0,13,3,13,17,76,3,22,Chano Rashiduddin,11,Total,0,5,10,2011,2009
+758,0,2,Pac-12,5,3,2,8,1,1,9,4,8,26,76,6,5,Marc Reininger,11,Utah,0,6,11,2020,2017
+759,1,0,MAC,0,1,1,5,0,0,5,9,12,10,29,0,5,Zack Riddle,11,Toledo,1,4,0,2012,2012
+760,7,0,OVC,10,5,5,11,0,0,11,1,1,10,93,5,3,Jalen Riley,11,Tennessee-Martin,2,5,15,2020,2020
+761,3,0,SWAC,0,4,4,8,0,2,10,3,4,5,35,5,2,David Robinson,11,Alcorn State,4,3,5,2019,2019
+762,3,1,WAC,15,4,4,9,0,0,9,3,6,23,84,5,13,Deon Rodgers,11,Texas-Arlington,1,9,20,2013,2013
+763,4,0,Big Ten,3,5,4,5,1,5,10,0,0,23,39,1,4,Charlie Rose,11,Iowa,0,4,4,2018,2015
+764,0,1,MEAC,10,4,4,9,0,0,9,3,8,16,107,12,25,Vaughn Rose,11,Florida A&M,2,7,22,2012,2012
+765,2,1,Ivy,4,2,1,4,1,5,9,6,8,16,47,1,1,Ernest Rouse,11,Harvard,0,3,5,2011,2011
+766,3,0,Big Ten,6,4,2,5,2,9,14,1,2,20,39,0,2,Brady Rudrud,11,Minnesota,0,5,6,2020,2017
+767,0,0,MVC,1,4,1,2,3,8,10,0,0,9,18,1,3,A.J. Rutter,11,Drake,0,2,2,2017,2014
+768,0,0,A-10,0,4,1,5,3,7,12,0,0,30,66,0,2,Thomas Sanchez,11,Fordham,0,1,0,2018,2016
+769,3,1,Sun Belt,8,3,2,11,1,6,17,4,4,10,57,3,6,Ramses Sandifer,11,Louisiana-Monroe,0,3,11,2017,2017
+770,4,0,A-Sun,4,3,2,15,1,9,24,4,12,9,69,3,10,Quincy Sarpy,11,Gardner-Webb,4,5,7,2008,2008
+771,2,0,MAC,4,3,1,3,2,9,12,3,4,20,36,0,2,Matt Schaffer,11,Toledo,0,2,4,2019,2017
+772,1,0,Big 12,18,4,4,13,0,0,13,3,7,24,75,11,8,Nigel Shadd,11,Kansas State,0,3,29,2020,2018
+773,1,4,SEC,3,5,4,17,1,1,18,0,2,7,48,6,6,Shamiek Sheppard,11,South Carolina,5,2,9,2015,2015
+774,1,0,Total,8,4,4,10,0,1,11,3,6,31,70,2,10,Brendan Sherrer,11,Washington,2,5,10,2012,2010
+775,0,0,MAAC,7,5,5,9,0,0,9,1,4,12,85,3,15,Jamin Shumate,11,Saint Peter's,2,10,10,2010,2010
+776,3,3,Ivy,12,4,3,8,1,4,12,2,4,17,91,5,13,John Sica,11,Columbia,2,3,17,2017,2016
+777,4,0,Total,2,3,0,2,3,7,9,2,3,13,43,0,3,Aaron Siler,11,Total,2,2,2,2016,2014
+778,6,0,Big Sky,5,3,0,3,3,15,18,2,2,20,78,0,11,Mario Soto,11,Eastern Washington,2,2,5,2017,2017
+779,0,0,SWAC,4,5,5,10,0,0,10,1,5,7,31,2,4,Adrian Spellman,11,Alabama State,0,1,6,2011,2011
+780,7,0,A-Sun,8,4,3,7,1,1,8,2,7,18,41,3,4,Brett Staal,11,Lipscomb,3,4,11,2011,2009
+781,3,1,MWC,8,5,5,16,0,2,18,1,5,20,43,3,3,Ryan Staten,11,San Diego State,2,1,11,2015,2012
+782,0,4,Horizon,2,5,5,9,0,0,9,1,1,8,29,4,4,Nathan Stegelmann,11,Valparaiso,1,2,6,2012,2012
+783,0,1,AEC,1,4,4,10,0,1,11,3,5,15,29,3,4,Petr Stepanyants,11,Hartford,0,0,4,2020,2018
+784,2,1,SWAC,8,5,5,13,0,0,13,1,5,12,53,1,7,James Stokes,11,Alcorn State,5,1,9,2018,2018
+785,0,2,NEC,5,4,1,2,3,11,13,0,0,11,67,0,4,Nathaniel Stokes,11,Bryant,2,1,5,2020,2020
+786,6,2,A-Sun,8,4,4,9,0,0,9,3,7,14,47,3,10,Jaxon Strates,11,Lipscomb,0,3,11,2020,2020
+787,0,0,OVC,4,4,1,4,3,4,8,0,2,8,20,3,3,Kyle Stroder,11,Southeast Missouri State,0,1,7,2014,2014
+788,7,1,OVC,10,4,3,10,1,3,13,2,4,25,81,2,17,Garrett Suedekum,11,Belmont,4,8,12,2020,2019
+789,1,5,OVC,12,5,5,11,0,0,11,1,4,13,63,13,8,Sasha Sukhanov,11,Morehead State,3,3,25,2019,2019
+790,1,1,CUSA,10,5,5,15,0,2,17,1,3,14,77,9,15,Ante Sustic,11,Marshall,2,5,19,2019,2019
+791,1,0,Southern,4,5,5,7,0,0,7,1,1,21,49,0,1,Robert Swanson,11,Furman,0,3,4,2020,2019
+792,1,0,Southland,9,4,4,7,0,1,8,3,4,21,66,7,11,Cameron Teague,11,Texas A&M-Corpus Christi,1,3,16,2007,2007
+793,0,1,Big West,7,5,5,9,0,0,9,1,4,14,74,4,15,Adam Thomas,11,Cal State Fullerton,1,2,11,2009,2009
+794,2,2,OVC,3,4,2,2,2,9,11,1,4,14,50,2,6,Tyler Thompson,11,Tennessee Tech,3,2,5,2020,2019
+795,3,0,MAAC,0,3,2,4,1,1,5,4,7,4,21,1,2,DeMarcus Threatt,11,Fairfield,0,1,1,2015,2015
+796,5,0,Southern,7,4,3,9,1,4,13,2,5,46,76,1,9,Clay Tormey,11,Davidson,3,8,8,2014,2011
+797,1,0,CAA,10,5,4,11,1,8,19,0,0,29,88,6,10,Will Townsville,11,Delaware,1,1,16,2013,2010
+798,4,0,Big West,0,4,1,3,3,9,12,0,0,11,46,2,2,Grant Troutt,11,UC-Santa Barbara,2,3,2,2016,2016
+799,2,0,Big 12,4,4,2,6,2,4,10,1,5,8,35,2,1,Georgios Tsalmpouris,11,Iowa State,1,3,6,2015,2015
+800,0,1,MEAC,4,5,5,14,0,0,14,1,2,22,46,4,8,Robert Tucker,11,Maryland-Eastern Shore,1,0,8,2011,2010
+801,1,0,Horizon,6,4,3,4,1,6,10,2,6,9,38,3,6,Michael Tyler,11,Milwaukee,0,0,9,2010,2010
+802,5,0,Horizon,3,3,2,5,1,7,12,4,6,15,44,0,5,Eric Valentin,11,Green Bay,3,4,3,2012,2011
+803,1,0,Pac-12,1,3,0,1,3,4,5,2,2,7,17,0,4,Connor Van Brocklin,11,Utah,1,0,1,2014,2014
+804,1,0,Big East,2,4,3,3,1,3,6,2,3,4,10,0,1,Michael Volovic,11,Butler,0,0,2,2014,2014
+805,0,1,MWC,2,3,2,8,1,5,13,4,4,9,36,2,2,Vukasin Vujovic,11,Boise State,0,3,4,2013,2013
+806,0,0,Big Sky,2,4,2,4,2,4,8,1,2,12,17,0,2,Houston Wahlen,11,Idaho State,0,0,2,2020,2018
+807,0,0,WAC,1,4,1,1,3,8,9,0,0,11,13,1,5,Joe Wall,11,Seattle,0,0,2,2019,2019
+808,1,0,CAA,2,4,2,3,2,8,11,1,2,8,22,1,0,Austin Washburn,11,William & Mary,1,1,3,2020,2019
+809,7,0,Ivy,4,2,2,9,0,4,13,7,12,19,76,1,14,Malcolm Washington,11,Pennsylvania,5,6,5,2010,2010
+810,1,1,A-Sun,5,4,4,10,0,1,11,3,5,2,40,1,9,Montavious Waters,11,Mercer,4,9,6,2007,2007
+811,3,0,MAAC,3,2,0,2,2,8,10,5,6,36,53,0,7,Tourron Whitfield,11,Marist,0,2,3,2015,2012
+812,4,0,CUSA,7,3,3,9,0,3,12,5,7,6,61,2,8,Chris Williams,11,Marshall,2,3,9,2007,2007
+813,4,0,A-10,4,4,1,1,3,7,8,0,0,17,29,0,4,Christian Wilson,11,Dayton,1,0,4,2020,2019
+814,7,0,SWAC,11,4,1,3,3,19,22,0,0,19,128,1,21,Darrian Wilson,11,Jackson State,2,5,12,2020,2020
+815,0,0,Big East,3,4,1,5,3,16,21,0,0,24,40,4,2,Casey Woodring,11,Providence,0,0,7,2017,2014
+816,2,1,ACC,5,4,3,8,1,7,15,2,4,26,41,5,5,Jesse Yanutola,11,Clemson,2,3,10,2009,2007
+817,2,1,Southern,3,3,1,2,2,6,8,2,2,13,26,2,2,Michael Adams,10,North Carolina-Greensboro,0,1,5,2016,2015
+818,0,0,SWAC,0,5,5,7,0,2,9,0,5,18,46,4,8,Babajidne Aina,10,Prairie View,3,2,4,2013,2013
+819,0,2,ACC,5,5,5,13,0,0,13,0,5,22,31,6,7,Doyin Akintobi-Adeyeye,10,Syracuse,1,5,11,2017,2015
+820,7,0,Patriot,6,5,5,13,0,5,18,0,1,13,72,5,9,Payne Andrus,10,Navy,2,3,11,2014,2014
+821,1,0,ACC,4,3,1,5,2,15,20,2,4,29,36,0,2,Adrian Autry,10,Syracuse,4,4,4,2019,2016
+822,6,1,Ivy,3,2,0,5,2,2,7,4,6,16,44,4,6,Will Bartlett,10,Yale,1,4,7,2013,2011
+823,0,3,NEC,4,3,3,7,0,0,7,4,9,13,38,1,5,Bryant Beckford,10,St. Francis (NY),1,2,5,2019,2018
+824,1,1,Big 12,8,4,4,11,0,0,11,2,3,24,66,1,20,Trent Beckley,10,Colorado,1,6,9,2011,2007
+825,1,0,MEAC,3,4,2,9,2,9,18,0,2,17,,6,5,Cassius Bell,10,Florida A&M,2,4,9,2008,2008
+826,7,1,A-Sun,7,4,4,8,0,6,14,2,2,17,66,2,7,Alijah Bennett,10,Kennesaw State,0,8,9,2015,2015
+827,4,0,A-Sun,6,4,2,7,2,5,12,0,1,13,66,2,9,Alexander Blessig,10,Florida Gulf Coast,3,8,8,2013,2013
+828,0,0,Big South,1,4,2,4,2,4,8,0,0,9,19,2,2,Aaron Blosser,10,Virginia Military Institute,1,3,3,2010,2009
+829,3,0,SWAC,3,3,3,12,0,0,12,4,6,3,48,2,10,Demarcus Blunt,10,Grambling,3,5,5,2010,2010
+830,1,1,NEC,3,3,1,4,2,6,10,2,2,9,35,5,4,Miguel Bocachica,10,Long Island University,0,2,8,2010,2010
+831,0,2,Big East,9,4,4,12,0,0,12,2,6,13,72,4,11,Darnell Brodie,10,Seton Hall,1,3,13,2020,2019
+832,2,0,NEC,4,4,4,8,0,5,13,2,2,37,42,0,3,Oliver Brown,10,Mount St. Mary's,2,4,4,2013,2010
+833,2,2,MAC,15,5,5,10,0,1,11,0,0,11,105,7,14,Tyler Brown,10,Central Michigan,3,6,22,2010,2010
+834,5,0,A-10,5,3,1,6,2,13,19,2,4,20,120,1,13,Evan Buckley,10,Duquesne,1,8,6,2020,2020
+835,2,1,ACC,7,3,2,6,1,3,9,3,10,21,40,3,5,Andy Burns,10,Virginia,0,3,10,2008,2007
+836,0,0,MAAC,3,5,5,7,0,3,10,0,1,28,42,2,5,Emerson Bursis,10,Rider,0,1,5,2015,2012
+837,0,0,MVC,5,4,2,2,2,2,4,0,0,5,15,1,3,Byron Burt,10,Loyola (IL),2,3,6,2017,2017
+838,0,0,A-Sun,1,4,2,2,2,2,4,0,0,5,16,0,1,Seth Callahan,10,NJIT,1,1,1,2016,2016
+839,1,0,AAC,2,3,1,2,2,7,9,2,2,9,22,1,6,Mark Calleja,10,South Florida,3,0,3,2020,2019
+840,13,0,Big Sky,10,4,2,7,2,7,14,0,0,10,110,0,8,Stephen Calton,10,Sacramento State,0,10,10,2009,2009
+841,1,0,Southland,5,4,4,11,0,0,11,2,2,10,71,3,14,Anthony Cameron,10,Lamar,1,2,8,2020,2020
+842,0,0,Big East,1,4,2,6,2,7,13,0,0,23,48,3,7,Chris Carter,10,Providence,1,1,4,2012,2010
+843,0,0,NEC,4,3,2,2,1,5,7,3,6,18,43,4,9,Andrew Cashin,10,Quinnipiac,1,1,8,2008,2007
+844,1,0,Big South,4,4,2,3,2,6,9,0,0,14,48,1,1,Jacob Casper,10,North Carolina-Asheville,0,5,5,2015,2014
+845,0,0,WAC,0,4,4,4,0,0,4,2,6,13,30,5,7,Renato Cesar,10,Fresno State,1,0,5,2007,2007
+846,0,1,Ivy,3,4,4,9,0,0,9,2,7,11,44,4,4,Kenyon Churchwell,10,Harvard,0,3,7,2007,2007
+847,0,0,Big West,2,2,1,5,1,4,9,5,6,13,24,1,6,Robert Cid,10,Cal State Northridge,1,2,3,2015,2014
+848,2,0,MVC,3,3,2,9,1,9,18,3,5,14,56,1,8,Darious Clark,10,Illinois State,1,3,4,2012,2012
+849,1,3,SWAC,4,3,3,6,0,0,6,4,7,10,40,5,11,Artis Cleveland,10,Alabama State,0,5,9,2017,2017
+850,5,1,NEC,9,3,2,12,1,1,13,3,10,10,99,6,12,Evan Cleveland,10,Mount St. Mary's,1,4,15,2011,2011
+851,0,0,MVC,1,4,3,6,1,6,12,1,2,27,57,1,6,Dion Coopwood,10,Southern Illinois,3,11,2,2008,2007
+852,3,0,ACC,1,4,4,9,0,2,11,2,2,12,19,0,4,Chris Corchiani,10,North Carolina State,1,3,1,2017,2015
+853,0,0,Sun Belt,1,5,5,6,0,1,7,0,1,12,10,0,2,Marcus Crawford,10,Florida International,1,7,7,2010,2009
+854,8,0,Pac-10,4,5,5,11,0,5,16,0,0,21,84,1,8,Jeremy Cross,10,Washington State,0,3,5,2008,2007
+855,1,0,MAC,5,4,4,6,0,0,6,2,3,7,18,3,3,Sean Damaska,10,Northern Illinois,0,1,8,2017,2017
+856,1,0,Big East,1,3,3,12,0,2,14,4,11,19,53,6,12,B.J. Daniels,10,South Florida,4,8,7,2009,2009
+857,2,0,A-10,0,4,2,4,2,5,9,0,0,13,23,1,4,Caleb Davis,10,Duquesne,0,4,1,2020,2017
+858,0,3,Big Ten,7,5,5,13,0,0,13,0,2,8,40,8,6,Ibrahima Diallo,10,Ohio State,0,4,15,2020,2020
+859,1,4,Pac-10,6,3,3,6,0,1,7,4,10,15,43,0,7,Mamadou Diarra,10,Southern California,0,2,6,2009,2008
+860,1,2,MAC,10,4,4,7,0,0,7,2,6,12,53,1,8,Khadim Dieng,10,Western Michigan,0,3,11,2015,2015
+861,4,0,Big East,4,4,4,9,0,0,9,2,5,34,48,3,5,Cory Dolins,10,DePaul,0,3,7,2016,2013
+862,2,0,Big East,1,2,0,0,2,8,8,4,4,21,44,0,4,Campbell Donovan,10,Butler,1,0,1,2020,2018
+863,1,4,OVC,6,4,4,11,0,0,11,2,8,16,56,3,6,Lorenzo Dorse,10,Tennessee-Martin,0,2,9,2007,2007
+864,3,0,ACC,5,3,0,5,3,9,14,1,2,33,49,3,4,David Dupont,10,North Carolina,0,1,8,2012,2011
+865,0,0,MAAC,3,4,4,9,0,5,14,2,4,13,39,3,7,Tyrel Edwards,10,Canisius,1,3,6,2013,2013
+866,2,0,NEC,6,3,1,10,2,4,14,2,5,8,43,3,2,Will Ellis,10,Central Connecticut State,3,4,9,2019,2019
+867,3,0,Sun Belt,0,5,5,7,0,2,9,0,0,2,30,1,2,Alsean Evans,10,Little Rock,2,1,1,2020,2020
+868,4,0,Sun Belt,0,4,2,6,2,4,10,0,0,5,26,1,0,Brian Feldman,10,Troy,2,0,1,2012,2012
+869,2,0,ACC,4,4,2,2,2,7,9,0,0,20,26,1,0,Ky Feldman,10,Syracuse,1,0,5,2019,2016
+870,2,0,Patriot,1,2,0,1,2,3,4,4,4,19,22,1,5,Matt Fiery,10,Bucknell,0,2,2,2010,2008
+871,6,0,Big Ten,13,4,4,8,0,2,10,2,2,41,194,8,24,Brett Finkelmeier,10,Indiana,4,11,21,2010,2008
+872,3,0,Ivy,3,3,2,5,1,1,6,3,10,16,42,6,4,Darryl Finkton,10,Harvard,1,2,9,2008,2007
+873,0,1,Ivy,1,2,0,5,2,5,10,4,4,14,24,0,2,Adam Franklin,10,Pennsylvania,3,1,1,2007,2007
+874,3,4,SWAC,10,4,4,8,0,0,8,2,8,12,87,5,16,Joshua Friar,10,Texas Southern,0,2,15,2016,2015
+875,0,0,Big Sky,5,4,4,9,0,0,9,2,4,5,24,4,8,Filip Fullerton,10,Portland State,1,1,9,2019,2019
+876,0,2,Big West,8,3,3,9,0,1,10,4,8,12,30,2,3,DeAngelo Garrett,10,Pacific,2,4,10,2008,2007
+877,1,1,Big Ten,7,3,3,12,0,1,13,4,8,23,43,6,10,J.P. Gavinski,10,Wisconsin,0,1,13,2011,2008
+878,0,2,NEC,4,4,4,8,0,0,8,2,4,5,25,2,8,Joel Gierbolini,10,Long Island University,1,1,6,2011,2011
+879,0,1,WCC,5,4,4,6,0,1,7,2,6,8,17,4,3,Jake Gilliam,10,San Diego,0,4,9,2019,2018
+880,0,3,Sun Belt,7,3,3,5,0,0,5,4,6,13,42,3,8,R.J. Gladney,10,Louisiana,0,3,10,2019,2019
+881,2,0,Southern,6,5,5,14,0,0,14,0,0,15,39,3,11,Grayson Glur,10,Furman,3,3,9,2007,2007
+882,1,0,Big Sky,5,4,4,6,0,2,8,2,6,11,26,0,8,Elijah Graves,10,Southern Utah,0,2,5,2019,2018
+883,0,0,Pac-10,0,3,1,3,2,2,5,2,4,11,10,0,0,Terence Green,10,Southern California,0,3,2,2009,2007
+884,2,0,A-10,1,3,1,1,2,2,3,2,2,22,24,1,4,Camron Greer,10,Dayton,2,1,2,2020,2018
+885,0,0,ACC,5,3,1,8,2,14,22,2,4,37,65,2,1,Matt Gregory,10,Notre Dame,0,1,7,2018,2015
+886,1,2,CUSA,3,3,2,7,1,6,13,3,7,33,61,7,5,Jacob Gross,10,North Texas,2,3,10,2017,2015
+887,0,0,OVC,0,3,0,1,3,7,8,1,2,5,25,1,5,Conner Hall,10,Tennessee Tech,0,3,1,2016,2016
+888,2,0,MEAC,3,2,2,4,0,0,4,6,9,6,19,1,1,James Hamilton,10,Morgan State,2,1,4,2012,2012
+889,3,0,SEC,6,4,2,4,2,7,11,0,0,13,54,0,3,Aubrey Hammond,10,Vanderbilt,1,3,6,2007,2007
+890,0,0,A-10,0,3,2,3,1,2,5,3,3,5,7,1,1,Mike Harris,10,Rhode Island,0,0,1,2009,2009
+891,4,0,Big West,3,3,2,2,1,2,4,3,4,2,15,1,0,Scotty Harris,10,UC-Santa Barbara,1,1,4,2019,2019
+892,0,0,CUSA,0,3,0,0,3,7,7,1,3,6,13,0,0,Lane Hartley,10,Louisiana Tech,0,1,0,2020,2020
+893,4,0,SWAC,6,3,2,5,1,4,9,3,6,4,46,2,7,Javen Hedgeman,10,Prairie View,2,5,8,2020,2020
+894,0,0,NEC,4,2,2,10,0,0,10,6,9,20,38,2,4,Dan Henry,10,Saint Francis (PA),2,4,6,2020,2018
+895,2,0,WAC,3,3,1,3,2,4,7,2,3,10,21,2,4,Drew Herig,10,New Mexico State,1,4,5,2011,2011
+896,4,0,CAA,3,4,2,3,2,7,10,0,0,11,27,4,5,Matt Hilton,10,James Madison,1,1,7,2007,2007
+897,3,0,Big Ten,3,4,2,7,2,4,11,0,0,11,28,0,1,Nicolas Hobbs,10,Iowa,0,3,3,2020,2019
+898,3,0,A-Sun,4,4,2,5,2,7,12,0,1,11,34,1,2,Nicholas Hodge,10,Lipscomb,1,6,5,2008,2007
+899,0,4,MAAC,7,4,4,12,0,6,18,2,3,27,93,2,13,Marcus Hopper,10,Siena,0,5,9,2013,2012
+900,3,0,Big 12,3,4,3,3,1,7,10,1,2,11,34,0,3,Taevon Horton,10,West Virginia,1,0,3,2019,2019
+901,5,1,Big South,4,4,3,3,1,11,14,1,1,12,54,0,9,John-Michael Hughes,10,High Point,0,2,4,2020,2020
+902,0,2,MAC,5,3,3,9,0,0,9,4,6,15,28,2,7,Cole Israelson,10,Central Michigan,0,1,7,2017,2015
+903,4,0,Southland,2,2,1,9,1,6,15,5,6,5,61,1,5,Jeff Jackson,10,Central Arkansas,2,5,3,2011,2011
+904,4,0,Sun Belt,1,5,5,5,0,5,10,0,2,10,53,2,8,Logan Jackson,10,Appalachian State,0,3,3,2015,2015
+905,3,4,Southland,11,5,5,12,0,0,12,0,0,9,52,3,12,Joshua Johnson,10,Nicholls State,0,5,14,2009,2009
+906,6,0,WAC,8,3,2,5,1,2,7,3,7,15,58,3,4,Mckay Johnson,10,Utah Valley,0,6,11,2018,2018
+907,0,0,Total,7,4,3,8,1,4,12,1,3,28,42,2,1,Daniel Jones,10,Oregon State,1,0,9,2014,2011
+908,1,1,ACC,8,4,3,7,1,7,14,1,3,35,70,4,10,Jeff Jones,10,Virginia,2,5,12,2017,2014
+909,1,0,Big 12,8,4,4,7,0,0,7,2,6,8,55,3,14,Kentrevious Jones,10,Oklahoma State,1,4,11,2019,2019
+910,1,0,Total,0,4,2,6,2,6,12,0,0,12,28,1,6,Dajour Joseph,10,Total,0,2,1,2020,2018
+911,0,0,Southland,5,4,4,8,0,0,8,2,4,5,29,4,5,Colin Just,10,Houston Baptist,0,2,9,2017,2017
+912,0,1,ACC,4,3,0,3,3,10,13,1,2,6,43,0,4,Andrew Kenny,10,Boston College,0,2,4,2020,2020
+913,1,0,SEC,2,4,2,3,2,4,7,0,0,6,20,0,0,Elias King,10,Mississippi State,0,1,2,2020,2020
+914,9,0,Big West,8,3,3,4,0,5,9,4,7,34,96,1,18,Jerramy King,10,Cal State Long Beach,5,8,9,2011,2010
+915,8,0,Horizon,7,4,4,11,0,7,18,2,5,16,118,4,9,Shawn King,10,Illinois-Chicago,0,10,11,2011,2011
+916,3,0,AEC,8,4,4,10,0,1,11,2,5,6,39,1,3,Walter King,10,Maine,3,2,9,2016,2016
+917,2,1,Big Sky,6,3,2,5,1,5,10,3,4,12,56,9,2,Garrett Kingman,10,Idaho,1,2,15,2018,2018
+918,1,0,Big Ten,12,5,5,23,0,3,26,0,2,34,106,7,9,Steve Kirkpatrick,10,Penn State,0,6,19,2011,2008
+919,3,0,Big South,3,3,3,7,0,1,8,4,6,15,47,4,6,Matt Kormylo,10,Charleston Southern,2,6,7,2020,2020
+920,3,5,SWAC,29,5,5,12,0,1,13,0,6,17,148,23,50,Cossy Kowouto,10,Mississippi Valley State,1,11,52,2020,2020
+921,0,0,A-10,4,3,1,5,2,3,8,2,3,8,30,3,9,Marko Krivacevic,10,Duquesne,1,2,7,2018,2018
+922,4,0,GWC,9,5,5,13,0,0,13,0,3,11,37,1,2,Conrad Krutwig,10,South Dakota,2,2,10,2011,2011
+923,0,0,AEC,4,3,0,1,3,10,11,1,2,17,23,0,4,Clint Kuban,10,Hartford,1,1,4,2009,2007
+924,4,3,Big Ten,9,4,3,10,1,1,11,1,5,22,94,9,6,Devin Langford,10,Illinois,2,1,18,2013,2013
+925,0,1,Southland,13,3,3,11,0,0,11,4,10,16,79,10,16,Kelly Lawson,10,Sam Houston State,0,5,23,2011,2011
+926,0,2,Big Ten,10,2,2,7,0,0,7,6,14,20,119,7,12,Broderick Lewis,10,Indiana,1,3,17,2009,2009
+927,2,0,NEC,5,3,1,18,2,13,31,2,6,21,46,2,5,Treadwell Lewis,10,Robert Morris,2,5,7,2013,2010
+928,3,0,Southland,5,3,3,9,0,0,9,4,8,11,45,1,3,Joseph Louwagie,10,Incarnate Word,2,2,6,2014,2014
+929,1,0,MAC,4,4,4,5,0,0,5,2,3,6,20,0,1,Sheldon Lowman,10,Central Michigan,2,1,4,2014,2014
+930,0,1,SWAC,13,5,5,13,0,0,13,0,1,32,113,1,24,Jordan Lumpkins,10,Prairie View,3,8,14,2018,2016
+931,0,0,CAA,2,1,1,3,0,0,3,8,10,5,42,6,8,Raphael Madera,10,Delaware,0,2,8,2007,2007
+932,0,0,SWAC,3,3,1,5,2,9,14,2,9,14,48,1,2,Jazmonn Major,10,Jackson State,0,5,4,2010,2010
+933,3,9,Pac-12,8,4,4,7,0,6,13,2,7,9,64,1,16,Trevor Manuel,10,Oregon,1,3,9,2016,2016
+934,2,5,Big Ten,11,5,5,10,0,0,10,0,2,12,65,8,18,Chol Marial,10,Maryland,1,6,19,2020,2020
+935,4,2,WAC,11,3,3,8,0,0,8,4,11,13,74,7,20,Tank Mayberry,10,Texas-San Antonio,3,10,18,2013,2013
+936,1,0,Summit,10,3,3,11,0,0,11,4,5,18,94,2,9,Jeremy McDonald,10,Western Illinois,2,3,12,2012,2012
+937,0,1,Summit,8,3,2,6,1,2,8,3,4,14,52,4,10,Owen McGlashan,10,Denver,0,7,12,2020,2020
+938,3,0,Sun Belt,11,4,3,7,1,7,14,1,5,16,59,2,12,Elijah McGuire,10,Louisiana,2,1,13,2016,2016
+939,0,0,Big Ten,4,4,2,7,2,4,11,0,2,25,50,1,3,Jon McKeeman,10,Purdue,2,3,5,2017,2014
+940,7,0,OVC,2,4,3,7,1,5,12,1,1,14,36,0,5,Rod McReynolds,10,Jacksonville State,2,8,2,2014,2010
+941,1,3,Big West,4,2,2,10,0,0,10,6,18,10,73,3,7,DeAndre Medlock,10,UC-Davis,1,11,7,2010,2010
+942,5,0,Big Ten,1,3,0,3,3,10,13,1,2,30,95,1,9,Trevor Menke,10,Nebraska,2,1,2,2015,2012
+943,1,0,WCC,7,3,1,3,2,17,20,2,2,22,43,4,5,Nate Mensah,10,Santa Clara,0,1,11,2011,2008
+944,2,4,Big East,15,4,3,8,1,7,15,1,2,16,84,3,11,Dwight Miller,10,Pittsburgh,2,7,18,2010,2010
+945,2,4,Big Ten,15,4,4,8,0,0,8,2,4,10,68,8,9,Makhel Mitchell,10,Maryland,2,3,23,2020,2020
+946,0,8,Southland,3,3,3,7,0,1,8,4,11,9,87,7,11,Dylan Morrison,10,Lamar,4,6,10,2020,2020
+947,2,1,Big East,11,3,3,8,0,0,8,4,4,16,76,8,11,John-Michael Mulloy,10,Butler,0,5,19,2020,2020
+948,3,0,A-10,,2,1,7,1,8,15,5,8,5,,,,Ryan Munson,10,Fordham,1,,1,2007,2007
+949,0,1,Ind,6,4,3,4,1,5,9,1,2,13,51,2,6,Alex Newlin,10,Southern Illinois-Edwardsville,1,2,8,2011,2011
+950,3,0,Total,22,4,4,20,0,1,21,2,2,31,170,8,35,Christopher Niemann,10,Nebraska,3,17,30,2012,2011
+951,1,2,ACC,6,4,4,8,0,4,12,2,4,19,60,4,11,Jayden Nixon,10,Virginia,2,6,10,2020,2019
+952,7,5,Big Sky,18,3,1,4,2,8,12,2,3,17,108,11,23,Enrico Nuno,10,Eastern Washington,8,4,29,2016,2016
+953,0,0,MWC,4,4,3,5,1,1,6,1,3,4,16,2,4,Charles O'Briant,10,Air Force,0,3,6,2019,2018
+954,2,1,Ivy,17,5,5,11,0,0,11,0,2,13,81,2,13,Emmanuel Onuama,10,Columbia,1,6,19,2020,2020
+955,1,0,Big West,3,4,3,6,1,6,12,1,2,5,35,1,4,Chris Osborn,10,UC-Irvine,1,6,4,2007,2007
+956,1,0,MEAC,4,3,1,1,2,6,7,2,3,7,19,0,1,Michael Oyefusi,10,Coppin State,2,3,4,2015,2014
+957,2,1,WCC,8,3,1,4,2,8,12,2,2,18,98,6,15,Andrew Papenfus,10,Santa Clara,6,5,14,2015,2014
+958,1,1,CAA,4,3,3,8,0,0,8,4,6,7,27,2,4,Justin Patterson,10,Towson,3,1,6,2020,2020
+959,1,0,MEAC,2,3,0,0,3,8,8,1,2,14,25,0,2,Justin Peebles-Jennings,10,Norfolk State,1,1,2,2016,2016
+960,0,0,Patriot,5,4,4,10,0,4,14,2,8,18,47,5,6,Marcellis Perkins,10,Holy Cross,1,2,10,2016,2016
+961,0,0,MAC,2,3,0,1,3,3,4,1,2,6,10,3,0,Grant Pitman,10,Miami (OH),1,0,5,2018,2018
+962,1,0,ACC,1,3,2,3,1,5,8,3,4,16,19,1,6,Rafael Portuondo,10,Florida State,1,7,2,2013,2011
+963,0,0,MVC,4,4,2,2,2,7,9,0,0,6,9,0,3,Jeremy Postell,10,Southern Illinois,1,2,4,2016,2016
+964,4,0,NEC,7,5,5,8,0,4,12,0,0,14,75,5,8,Matt Poulsen,10,Mount St. Mary's,1,7,12,2019,2019
+965,2,0,Horizon,5,4,4,5,0,1,6,2,4,6,24,1,1,Tyrone Powell,10,Green Bay,2,2,6,2018,2018
+966,1,0,Big East,0,3,0,2,3,10,12,1,2,27,44,2,3,Jake Presutti,10,Syracuse,1,4,2,2009,2007
+967,5,0,ACC,0,3,2,6,1,3,9,3,6,21,32,3,4,Ryan Quigtar,10,Miami (FL),1,2,3,2012,2009
+968,1,0,ACC,2,4,3,7,1,6,13,1,3,19,46,3,4,Joey Racer,10,Virginia Tech,0,4,5,2013,2012
+969,2,0,SEC,1,4,3,7,1,3,10,1,3,16,57,4,3,Brett Rau,10,Missouri,2,5,5,2018,2017
+970,5,1,Horizon,2,4,2,4,2,7,11,0,1,16,47,0,4,Danny Reese,10,Youngstown State,2,4,2,2013,2012
+971,3,0,SEC,0,3,0,5,3,10,15,1,3,22,88,3,6,Isaiah Rice,10,Vanderbilt,5,6,3,2020,2018
+972,5,0,Southern,1,4,2,4,2,6,10,0,0,5,35,1,3,Jordan Richeson,10,Virginia Military Institute,1,2,2,2020,2020
+973,1,0,Big East,2,3,2,8,1,2,10,3,4,12,47,3,1,Jaden Robinson,10,Georgetown,4,3,5,2020,2019
+974,1,1,Horizon,6,3,3,7,0,1,8,4,4,8,31,1,2,Jacoby Roddy,10,Wright State,1,2,7,2013,2013
+975,4,0,ACC,14,3,0,5,3,16,21,1,4,40,82,0,7,Thomas Rogers,10,Virginia,0,8,14,2014,2011
+976,2,1,NEC,15,5,5,17,0,0,17,0,1,14,58,1,6,Will Royal,10,Robert Morris,0,6,16,2009,2008
+977,2,0,MWC,1,4,4,8,0,1,9,2,2,16,26,1,6,Charles Rushman,10,Nevada-Las Vegas,1,0,2,2015,2014
+978,2,0,WAC,3,4,3,6,1,2,8,1,2,6,25,0,4,Ben Sanders,10,Grand Canyon,0,3,3,2014,2014
+979,4,0,Southern,4,3,0,1,3,11,12,1,4,10,49,4,7,Mark Schiavoni,10,Citadel,2,0,8,2007,2007
+980,4,0,Big 12,1,3,0,5,3,11,16,1,5,45,61,3,3,Mason Schoen,10,Kansas State,0,2,4,2018,2015
+981,3,0,Horizon,4,3,3,10,0,7,17,4,11,40,100,3,1,Nick Shelton,10,Valparaiso,4,7,7,2012,2009
+982,1,0,OVC,3,4,2,5,2,8,13,0,0,19,21,0,1,Picasso Simmons,10,Murray State,1,4,3,2011,2008
+983,3,0,Southland,9,3,3,8,0,3,11,4,9,9,69,3,3,Darius Singleton,10,Central Arkansas,1,4,12,2012,2012
+984,1,0,Big 12,2,4,2,5,2,8,13,0,0,15,27,0,1,Trey Slate,10,Oklahoma,1,2,2,2015,2014
+985,0,0,CUSA,3,4,2,5,2,4,9,0,0,5,34,1,5,Angel Smith,10,Southern Mississippi,2,3,4,2020,2020
+986,13,0,MEAC,4,4,4,10,0,3,13,2,5,26,87,4,17,Chuck Smith,10,Howard,1,8,8,2017,2016
+987,10,2,MVC,13,4,3,3,1,5,8,1,2,13,100,3,5,Kenyon Smith,10,Illinois State,4,4,16,2011,2011
+988,1,11,A-10,14,4,4,12,0,2,14,2,7,22,94,7,9,Xavier Smith,10,St. Bonaventure,2,2,21,2015,2014
+989,0,2,Sun Belt,8,0,0,3,0,0,3,10,10,9,52,4,6,Daouda Soumaoro,10,Western Kentucky,1,0,12,2014,2014
+990,2,0,SWAC,4,3,2,7,1,4,11,3,4,7,32,4,4,Jerry Stangline,10,Alabama State,1,3,8,2009,2009
+991,1,1,Sun Belt,5,3,3,11,0,0,11,4,9,24,106,3,12,Darren Stewart,10,Florida Atlantic,4,0,8,2011,2010
+992,0,0,Southland,2,3,0,1,3,6,7,1,2,14,36,0,2,Matthew Strange,10,Southeastern Louisiana,2,4,2,2019,2019
+993,0,0,MAAC,0,5,5,11,0,3,14,0,4,19,22,3,3,Greg Tarca,10,Quinnipiac,0,3,3,2018,2015
+994,0,3,Big South,1,3,2,4,1,2,6,3,5,8,23,1,0,Jarvis Thibodeaux,10,Presbyterian,1,3,2,2013,2013
+995,11,0,MEAC,2,2,0,1,2,7,8,4,6,19,72,0,11,Desmond Thomas,10,Morgan State,1,6,2,2009,2009
+996,0,1,Sun Belt,8,4,3,8,1,2,10,1,2,6,59,1,2,DeVonte Thornton,10,Florida Atlantic,2,5,9,2013,2013
+997,3,3,OVC,31,5,5,11,0,1,12,0,0,27,178,17,37,Jacob Tolbert,10,Southeast Missouri State,2,8,48,2013,2013
+998,4,0,Southland,1,5,5,7,0,3,10,0,0,9,33,2,2,Danilo Toskovic,10,Stephen F. Austin,1,1,3,2013,2013
+999,0,3,Pac-12,7,4,4,8,0,0,8,2,4,16,54,4,12,Dearon Tucker,10,Oregon State,1,3,11,2020,2020
